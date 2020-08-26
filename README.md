@@ -9,10 +9,10 @@
 
 如果发现仍有未汉化的部分，或者有可以优化的内容，欢迎在[这里](https://github.com/LWHK/LotR-Related-Translations/issues)反馈。
 
-**Contributors List|贡献者名单:**
-arranged in alphabetical order|按字母表顺序排列:
+**Contributors丨贡献者**
+Arranged in alphabetical order丨按字母表顺序排列:
 
-.lang File:
+lang File:
 [Number_Sir](https://github.com/NumberSir)
 
 speeches Files:
