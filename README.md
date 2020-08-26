@@ -9,8 +9,38 @@
 
 如果发现仍有未汉化的部分，或者有可以优化的内容，欢迎在[这里](https://github.com/LWHK/LotR-Related-Translations/issues)反馈。
 
-**Contributors:**
+**Contributors List|贡献者名单:**
+arranged in alphabetical order|按字母表顺序排列:
+
+.lang File:
+[Number_Sir](https://github.com/NumberSir)
+
+speeches Files:
+[Alone]
+[Chiren_CQR](https://github.com/ChirenCQR)
+[DKExluna](https://github.com/DKExluna)
+[Illuvatar]
+[Kasparov]
+[Metal]
+[Mores](https://www.mcmod.cn/center/90893)
+[North_Dragon]
+[Number_Sir](https://github.com/NumberSir)
+[Radagast]
+[ReginaAllemaniae](https://paratranz.cn/users/2098/profile)
+[Shang1]
+[skysonic]
+[tbw]
+[TGAchenzi]
 [WuzgXY](https://github.com/WuzgXY-GitHub)
-[Number_Sir](https://www.mcbbs.net/home.php?mod=space&uid=340195)
+[xvxiao]
+[zhenyangwudi]
+
+names Files:
+[Number_Sir](https://github.com/NumberSir)
+[WuzgXY](https://github.com/WuzgXY-GitHub)
+
+lores Files:
 [Chiren_CQR](https://github.com/ChirenCQR)
 [Mores](https://www.mcmod.cn/center/90893)
+[Number_Sir](https://github.com/NumberSir)
+[WuzgXY](https://github.com/WuzgXY-GitHub)
