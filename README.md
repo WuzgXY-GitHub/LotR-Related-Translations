@@ -12,5 +12,5 @@
 **Contributors:**
 [WuzgXY](https://github.com/WuzgXY-GitHub)
 [Number_Sir](https://www.mcbbs.net/home.php?mod=space&uid=340195)
-[Chiren_CQR](https://www.mcmod.cn/center/12422)
+[Chiren_CQR](https://github.com/ChirenCQR)
 [Mores](https://www.mcmod.cn/center/90893)
