@@ -44,6 +44,7 @@ Non-preference ranking丨排名不分先后<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 #### MEI
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+[Chiren_CQR](https://github.com/ChirenCQR)<br>
 #### METT
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
