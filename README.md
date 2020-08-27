@@ -12,10 +12,10 @@
 **Contributors丨贡献者**<br>
 Arranged in alphabetical order丨按字母表顺序排列<br>
 <br>
-lang File:<br>
+lang:<br>
 [Number_Sir](https://github.com/NumberSir)<br>
-
-speeches Files:<br>
+<br>
+speech:<br>
 [Alone]<br>
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [DKExluna](https://github.com/DKExluna)<br>
@@ -35,12 +35,20 @@ speeches Files:<br>
 [xvxiao]<br>
 [zhenyangwudi]<br>
 <br>
-names Files:<br>
+names:<br>
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 <br>
-lores Files:<br>
+lore:<br>
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [Mores](https://www.mcmod.cn/center/90893)<br>
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+MEI:<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+METT:<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+[TUsama](https://github.com/TUsama)<br>
+NEI & NEI Handler:<br>
+[Number_Sir](https://github.com/NumberSir)<br>
