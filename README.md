@@ -9,13 +9,13 @@
 
 如果发现仍有未汉化的部分，或者有可以优化的内容，欢迎在[这里](https://github.com/LWHK/LotR-Related-Translations/issues)反馈。
 
-**Contributors丨贡献者**<br>
+### Contributors丨贡献者
 Arranged in alphabetical order丨按字母表顺序排列<br>
 <br>
-lang:<br>
+#### Language File
 [Number_Sir](https://github.com/NumberSir)<br>
 <br>
-speech:<br>
+#### Speech Files
 [Alone]<br>
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [DKExluna](https://github.com/DKExluna)<br>
@@ -35,20 +35,20 @@ speech:<br>
 [xvxiao]<br>
 [zhenyangwudi]<br>
 <br>
-names:<br>
+#### Names Files
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 <br>
-lore:<br>
+#### Lore Files
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [Mores](https://www.mcmod.cn/center/90893)<br>
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-MEI:<br>
+#### MEI
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-METT:<br>
+#### METT
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 [TUsama](https://github.com/TUsama)<br>
-NEI & NEI Handler:<br>
+#### LotR NEI
 [Number_Sir](https://github.com/NumberSir)<br>
