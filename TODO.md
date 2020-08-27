@@ -17,3 +17,9 @@
 正常校对
 # 翻译
 ## MEI
+# 收拢
+## names
+## lore
+## MEI
+## METT
+## LotRTC
