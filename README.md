@@ -10,12 +10,12 @@
 如果发现仍有未汉化的部分，或者有可以优化的内容，欢迎在[这里](https://github.com/LWHK/LotR-Related-Translations/issues)反馈。
 
 ### Contributors丨贡献者
-Arranged in alphabetical order丨按字母表顺序排列<br>
+Non-preference ranking丨排名不分先后<br>
 <br>
-#### Language File
+#### LotR
+##### Language File
 [Number_Sir](https://github.com/NumberSir)<br>
-<br>
-#### Speech Files
+##### Speech Files
 [Alone]<br>
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [DKExluna](https://github.com/DKExluna)<br>
@@ -34,12 +34,10 @@ Arranged in alphabetical order丨按字母表顺序排列<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 [xvxiao]<br>
 [zhenyangwudi]<br>
-<br>
-#### Names Files
+##### Names Files
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-<br>
-#### Lore Files
+##### Lore Files
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [Mores](https://www.mcmod.cn/center/90893)<br>
 [Number_Sir](https://github.com/NumberSir)<br>
@@ -50,5 +48,10 @@ Arranged in alphabetical order丨按字母表顺序排列<br>
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 [TUsama](https://github.com/TUsama)<br>
+[light000](https://bbs.mcmod.cn/center/9666)<br>
+[pc85](https://www.mcbbs.net/home.php?mod=space&uid=1653202)<br>
 #### LotR NEI
 [Number_Sir](https://github.com/NumberSir)<br>
+#### LotRTC (LotRTiC)
+[Twilight_Two](https://www.mcbbs.net/home.php?mod=space&uid=1545237)<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
