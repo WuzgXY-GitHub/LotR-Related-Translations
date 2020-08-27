@@ -1,0 +1,16 @@
+﻿#Written by Forten
+#title:一句谜语
+#types:eriador,ruins,shire,rivendell
+#reward
+#
+“一群绿色的蝴蝶
+吊在一根坚硬的绳子上”——
+轻风如此低语，
+轻风这样吟唱。
+
+“一座自己生长的塔楼，
+用它的爪子将我举高”——
+大地如此叫嚷，
+大地如此咆哮。
+
+这个谜语在说些什么？

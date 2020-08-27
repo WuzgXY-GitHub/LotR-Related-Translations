@@ -1,0 +1,16 @@
+﻿#written by TheSquidychicken
+#
+#title:我的待杀单子
+#author:{name:orc_prefix}{name:orc_suffix}
+#types:mordor,gundabad,dol_guldur,angmar
+#reward
+#
+这些蛆本就该死！我的{choose:剑/斧头/长矛/箭}会让他们的内脏尝到该尝的味道！
+
+{name:orc_prefix}{name:orc_suffix}（第{num:1,99999}号）
+{name:orc_prefix}{name:orc_suffix}（第{num:1,99999}号）
+{name:orc_prefix}{name:orc_suffix}（第{num:1,99999}号）
+{name:orc_prefix}{name:orc_suffix}（第{num:1,99999}号）
+{name:orc_prefix}{name:orc_suffix}（第{num:1,99999}号）
+
+我打算再去找上{choose:四/五/六/七/八/九/十}个游荡的小鬼们帮我搞死这些个奴隶。只要我们弄完了，我们便能掠走他们身上的东西，再谎称他们从悬崖上摔下去了。那些个头子不会知道这个的。

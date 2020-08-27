@@ -9,38 +9,46 @@
 
 如果发现仍有未汉化的部分，或者有可以优化的内容，欢迎在[这里](https://github.com/LWHK/LotR-Related-Translations/issues)反馈。
 
-**Contributors List|贡献者名单:**<br>
-**arranged in alphabetical order|按字母表顺序排列:**<br><br>
-
-**.lang File:**<br>
-[Number_Sir](https://github.com/NumberSir)<br><br>
-
-**speeches Files:**<br>
-Alone
-[Chiren_CQR](https://github.com/ChirenCQR)
-[DKExluna](https://github.com/DKExluna)
-Illuvatar
-Kasparov
-Metal
-[Mores](https://www.mcmod.cn/center/90893)
-North_Dragon
-[Number_Sir](https://github.com/NumberSir)
-Radagast
-[ReginaAllemaniae](https://paratranz.cn/users/2098/profile)
-Shang1
-skysonic
-tbw
-TGAchenzi
-[WuzgXY](https://github.com/WuzgXY-GitHub)
-xvxiao
-zhenyangwudi<br><br>
-
-**names Files:**<br>
-[Number_Sir](https://github.com/NumberSir)
-[WuzgXY](https://github.com/WuzgXY-GitHub)<br><br>
-
-**lores Files:**<br>
-[Chiren_CQR](https://github.com/ChirenCQR)
-[Mores](https://www.mcmod.cn/center/90893)
-[Number_Sir](https://github.com/NumberSir)
-[WuzgXY](https://github.com/WuzgXY-GitHub)
+**Contributors丨贡献者**<br>
+Arranged in alphabetical order丨按字母表顺序排列<br>
+<br>
+lang:<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+<br>
+speech:<br>
+[Alone]<br>
+[Chiren_CQR](https://github.com/ChirenCQR)<br>
+[DKExluna](https://github.com/DKExluna)<br>
+[Illuvatar]<br>
+[Kasparov]<br>
+[Metal]<br>
+[Mores](https://www.mcmod.cn/center/90893)<br>
+[North_Dragon]<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+[Radagast]<br>
+[ReginaAllemaniae](https://paratranz.cn/users/2098/profile)<br>
+[Shang1]<br>
+[skysonic]<br>
+[tbw]<br>
+[TGAchenzi]<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+[xvxiao]<br>
+[zhenyangwudi]<br>
+<br>
+names:<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+<br>
+lore:<br>
+[Chiren_CQR](https://github.com/ChirenCQR)<br>
+[Mores](https://www.mcmod.cn/center/90893)<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+MEI:<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+METT:<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+[TUsama](https://github.com/TUsama)<br>
+NEI & NEI Handler:<br>
+[Number_Sir](https://github.com/NumberSir)<br>

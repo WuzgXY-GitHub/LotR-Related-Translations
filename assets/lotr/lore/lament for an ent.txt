@@ -1,0 +1,26 @@
+﻿#title:恩特悼词
+#author:{name:sindarin_male}
+#types:eregion,woodland_realm,lothlorien
+#reward
+#
+#by Campinator
+#
+巨木横倒
+断枝横飞
+你的根须从此
+自由扎根
+
+枯叶触地
+雄伟恩特
+从此不再随从
+{choose:你的枝干不再发芽/你的树皮已经枯朽}
+
+垂死散叶
+空虚之魂
+整座林地都在哀鸣
+回响在每一处山丘
+
+根须缠落
+枝干腐朽
+未生的果实已经死去
+而你的灵魂已经自由
