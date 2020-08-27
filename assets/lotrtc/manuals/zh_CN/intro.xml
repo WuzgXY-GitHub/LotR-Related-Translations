@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+
+<book>
+<page type="intro">
+<text>旅途由此开始-如何食用中洲匠魂扩展
+by TheCrafter4000
+
+这本手册介绍了加入中洲的新方块，由此可以让你快速开始食用
+
+当有内容发生改变时这本书会自动更新，所以最好不要把它丢了</text>
+</page>
+
+<page type="contents">
+<text>目录</text>
+<link>
+<text>冶炼炉</text>
+<icon>highelvensmelterycontroller</icon>
+<jump>2</jump>
+</link>
+<link>
+<text>冶炼炉方块</text>
+<icon>highelvensmelterybrick</icon>
+<jump>8</jump>
+</link>
+<link>
+<text>材料</text>
+<icon>bluedwarvensteel</icon>
+<jump>14</jump>
+</link>
+</page>
+
+<page type="crafting">
+<text>高等精灵冶炼炉控制器</text>
+<recipe>
+<name>highelvensmelterycontroller</name>
+<size>three</size>
+</recipe>
+</page>
+
+<page type="text">
+<text>高等精灵因能制作出优良的武器而闻名，他们的铁匠可以打造出最锋利的剑
+
+在林顿工作台中合成
+
+合金:
+- 精灵钢(熔融煤炭[1] + 熔融铁[1])</text>
+</page>
+
+<page type="crafting">
+<text>矮人冶炼炉控制器</text>
+<recipe>
+<name>dwarvensmelterycontroller</name>
+<size>three</size>
+</recipe>
+</page>
+
+<page type="text">
+<text>矮人以他们强大的冶炼工艺闻名，他们的炉子比任何炉子都更高温
+
+特殊效果: 能够更快的熔融金属，所以可以更有效率地冶炼秘银矿石
+在矮人工作台中合成
+
+合金:
+- 矮人钢(熔融煤炭[1] +熔融铁[1])
+- 加尔沃恩(熔融埃蒂尔米尔[1] +熔融铁[1])
+- 矮人钢(蓝色山脉)(熔融萨尔路因[2] +熔融铁[1])</text>
+</page>
+
+<page type="crafting">
+<text>安格玛冶炼炉控制器</text>
+<recipe>
+<name>angmarsmelterycontroller</name>
+<size>three</size>
+</recipe>
+</page>
+
+<page type="text">
+<text>安格玛，没落的巫术王国
+
+特殊效果:更有效率地冶炼魔古尔铁矿
+在安格玛工作台中合成
+
+合金:
+- 乌鲁克钢(熔融煤炭[1] +熔融铁[1])
+- 黑乌鲁克钢(熔融奥克钢[1] +熔融督尔瑙尔[1])
+- 魔古尔钢(熔融奥克钢[1] +熔融古尔都利尔[1])</text>
+</page>
+
+<page type="text">
+<text>还有一些其他方块，和普通的方块一样合成，只需要在特别的工作台中合成即可
+
+高等精灵的方块:林顿工作台
+矮人的方块:矮人工作台
+安格玛的方块:安格玛工作台</text>
+</page>
+
+<page type="crafting">
+<text>冶炼炉排液口</text>
+<recipe>
+<name>smelterydrain</name>
+<size>three</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>焦黑储罐</text>
+<recipe>
+<name>smelterytank1</name>
+<size>three</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>焦黑玻璃</text>
+<recipe>
+<name>smelterytank2</name>
+<size>three</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>焦黑视窗</text>
+<recipe>
+<name>smelterytank3</name>
+<size>three</size>
+</recipe>
+</page>
+
+<page type="text">
+<text>还有一些添加的新型材料，这本书可以直接合成介绍新型材料的书</text>
+</page>
+
+</book>
