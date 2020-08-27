@@ -1,6 +1,6 @@
-### 我们将会在这个库以资源包的方式释出[魔戒](https://www.mcbbs.net/thread-1084629-1-1.html)及其附属模组的汉化，这个库的翻译会比官方中文文件更新得更频繁。
+### 我们将会在这个库以资源包的方式释出[魔戒](https://www.mcbbs.net/thread-1084629-1-1.html)（1.7.10）及其附属模组的汉化，这个库的翻译会比官方中文文件更新得更频繁。
 
-### This repository is used to store CHS translations of LotR Mod and its dependent mods. Translations will be put into resource packs and be released out.
+### This repository is used to store CHS translations of LotR Mod (1.7.10) and its dependent mods. Translations will be put into resource packs and be released out.
 
 **使用方式：**
 
