@@ -1,0 +1,14 @@
+#written by:Gorbag12
+#
+#title:把他的头颅带来！
+#author:{name:orc_prefix}{name:orc_suffix}，{name:orc_prefix}{name:orc_suffix}的传令官
+#types:ruins,gundabad,angmar,dol_guldur,mordor,isengard
+#reward
+#
+嘿，你这个满身蛆虫的家伙！老板告诉俺你很擅长猎杀那些猎物！
+
+他命令俺，这个传令官，如果俺能给你写张条子，让俺告诉你，把那个恶臭的{name:gondor_male}的头带来！那蠢货嘲笑老板的气力！让俺们看看他是不是还能在脑袋跟身子分家的时候笑得出来！
+
+如果你能把那家伙的脑袋带来，五百银币，为你这恶臭的事迹，奖励给你！如果你带不来，那你这污秽的脑袋就保不住了，你这蛆！
+
+现在，去干你该干的吧！

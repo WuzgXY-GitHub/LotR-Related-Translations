@@ -1,0 +1,12 @@
+﻿# Karseius
+#
+#title:一个警告
+#author:{name:umbar_male}
+#types:harnedor,southron,umbar,gulf
+#reward
+#
+People of the lands of all Ahâr! The following is urgent business, I beseech you! Beware of those Sand-Usurers!
+
+It has been two moons since I acquired a horse from {choose:Ijdi-ilel/Izêm-ulzuz/Ayûkaph-amâm} for the proud price of a hundred silver coins! And what did I get? An unruly creature, impossible to handle! When I saw the horse I was staggered by its magnificent black and white stripes, and I hoped that with it I could impress my wife when I finally came home. Now I am stuck with this beast which refuses to follow me, making hideous noises all day long!
+
+Stay away from the desert-dwellers; they will deceive you!
