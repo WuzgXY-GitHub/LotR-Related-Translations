@@ -9,8 +9,38 @@
 
 如果发现仍有未汉化的部分，或者有可以优化的内容，欢迎在[这里](https://github.com/LWHK/LotR-Related-Translations/issues)反馈。
 
-**Contributors:**
-[WuzgXY](https://github.com/WuzgXY-GitHub)
-[Number_Sir](https://www.mcbbs.net/home.php?mod=space&uid=340195)
-[Chiren_CQR](https://github.com/ChirenCQR)
-[Mores](https://www.mcmod.cn/center/90893)
+**Contributors丨贡献者**<br>
+Arranged in alphabetical order丨按字母表顺序排列<br>
+<br>
+lang File:<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+
+speeches Files:<br>
+[Alone]<br>
+[Chiren_CQR](https://github.com/ChirenCQR)<br>
+[DKExluna](https://github.com/DKExluna)<br>
+[Illuvatar]<br>
+[Kasparov]<br>
+[Metal]<br>
+[Mores](https://www.mcmod.cn/center/90893)<br>
+[North_Dragon]<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+[Radagast]<br>
+[ReginaAllemaniae](https://paratranz.cn/users/2098/profile)<br>
+[Shang1]<br>
+[skysonic]<br>
+[tbw]<br>
+[TGAchenzi]<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+[xvxiao]<br>
+[zhenyangwudi]<br>
+<br>
+names Files:<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+<br>
+lores Files:<br>
+[Chiren_CQR](https://github.com/ChirenCQR)<br>
+[Mores](https://www.mcmod.cn/center/90893)<br>
+[Number_Sir](https://github.com/NumberSir)<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
