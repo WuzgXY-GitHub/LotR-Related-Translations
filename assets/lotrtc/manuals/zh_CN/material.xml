@@ -5,7 +5,7 @@
 <text>中洲新型材料：所有新型材料的信息
 by TheCrafter4000
 
-当有某些东西改变时这本书会自动更新，不要把给它丢了</text>
+当有某些东西改变时这本书会自动更新，不要把它给丢了</text>
 </page>
 
 <page type="sectionpage">
@@ -27,17 +27,17 @@ by TheCrafter4000
 <title>矮人钢</title>
 <toolmaterial>DwarvenSteel</toolmaterial>
 <icon>dwarvenwarhammer</icon>
-<text>矮人炼制的钢锭</text>
+<text>矮人炼制的钢合金</text>
 <material>
 <main>dwarveningot</main>
 </material>
 </page>
 
 <page type="materialstats">
-<title>矮人钢锭(蓝色山脉)</title>
+<title>蓝山矮人钢锭</title>
 <toolmaterial>BlueDwarvenSteel</toolmaterial>
 <icon>bluedwarvenwarhammer</icon>
-<text>蓝色山脉矮人炼制的钢锭</text>
+<text>蓝色山脉的矮人炼制的钢合金</text>
 <material>
 <main>bluedwarveningot</main>
 </material>
@@ -47,7 +47,7 @@ by TheCrafter4000
 <title>精灵钢</title>
 <toolmaterial>ElvenSteel</toolmaterial>
 <icon>elvensword</icon>
-<text>精灵炼制的钢锭</text>
+<text>精灵炼制的钢合金</text>
 <material>
 <main>elveningot</main>
 </material>
@@ -57,7 +57,7 @@ by TheCrafter4000
 <title>奥克钢</title>
 <toolmaterial>OrcSteel</toolmaterial>
 <icon>mordorpickaxe</icon>
-<text>黑暗地区的一种普通**</text>
+<text>黑暗地区的一种普通合金</text>
 <material>
 <main>orcingot</main>
 </material>
@@ -67,7 +67,7 @@ by TheCrafter4000
 <title>乌鲁克钢</title>
 <toolmaterial>UrukSteel</toolmaterial>
 <icon>urukhelmet</icon>
-<text>艾森加德的乌鲁克使用的**</text>
+<text>艾森加德的乌鲁克使用的合金</text>
 <material>
 <main>urukingot</main>
 </material>
@@ -77,7 +77,7 @@ by TheCrafter4000
 <title>黑乌鲁克钢</title>
 <toolmaterial>BlackUrukSteel</toolmaterial>
 <icon>blackurukhelmet</icon>
-<text>一种强力的**</text>
+<text>一种强力的合金</text>
 <material>
 <main>blackurukingot</main>
 </material>

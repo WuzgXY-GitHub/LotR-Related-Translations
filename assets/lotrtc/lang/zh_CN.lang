@@ -32,17 +32,17 @@ TankDwarven.Window.name=焦黑矮人视窗
 
 material.mithrillotr=秘银
 material.dwarvensteel=矮人钢锭
-material.bluedwarvensteel=矮人钢锭(蓝色山脉)
+material.bluedwarvensteel=蓝山矮人钢锭
 material.elvensteel=精灵钢锭
 material.orcsteel=奥克钢锭
 material.uruksteel=乌鲁克钢锭
 material.blackuruksteel=黑乌鲁克钢锭
 material.mallorn=瑁珑
-material.blackroot=墨松德
+material.blackroot=黑根草
 
 tool.warhammer=战锤
 
-toolpart.WarHammerHead=%%material 战锤锤头
+toolpart.WarHammerHead=%%material战锤锤头
 
 item.lotrtc.MetalPattern.warhammerhead.name=战锤锤头铸模
 
@@ -54,16 +54,16 @@ gui.toolstation.warhammer.desc=战锤是一种极具进攻性的重武器\n\n自
 item.lotrtc.bucket.ElvenSteel.name=熔融精灵钢桶
 item.lotrtc.bucket.DwarvenSteel.name=熔融矮人钢桶
 item.lotrtc.bucket.OrcSteel.name=熔融奥克钢桶
-item.lotrtc.bucket.BlueDwarvenSteel.name=熔融矮人钢(蓝色山脉)桶
+item.lotrtc.bucket.BlueDwarvenSteel.name=熔融蓝山矮人钢桶
 item.lotrtc.bucket.UrukSteel.name=熔融乌鲁克钢桶
 item.lotrtc.bucket.BlackUrukSteel.name=熔融黑乌鲁克钢桶
 item.lotrtc.bucket.MorgulSteel.name=熔融魔古尔钢桶
-item.lotrtc.bucket.Sarlluin.name=熔融萨尔路因桶
+item.lotrtc.bucket.Sarlluin.name=熔融路伊刚桶
 item.lotrtc.bucket.Coal.name=熔融煤炭桶
 item.lotrtc.bucket.MithrilLotR.name=熔融秘银桶
 item.lotrtc.bucket.Galvorn.name=熔融加尔沃恩桶
-item.lotrtc.bucket.Edhelmir.name=熔融埃蒂尔米尔桶
-item.lotrtc.bucket.Durnaur.name=熔融督尔瑙尔桶
+item.lotrtc.bucket.Edhelmir.name=熔融埃蒂尔维尔桶
+item.lotrtc.bucket.Durnaur.name=熔融都尔诺桶
 item.lotrtc.bucket.Gulduril.name=熔融古尔都利尔桶
 
 tile.fluid.molten.elven_steel.name=熔融精灵钢
@@ -72,12 +72,12 @@ tile.fluid.molten.orc_steel.name=熔融奥克钢
 tile.fluid.molten.uruk_steel.name=熔融乌鲁克钢
 tile.fluid.molten.morgul_steel.name=熔融魔古尔钢
 tile.fluid.molten.black_uruk_steel.name=熔融黑乌鲁克钢
-tile.fluid.molten.blue_dwarven_steel.name=熔融矮人钢(蓝色山脉)
-tile.fluid.molten.sarlluin.name=熔融萨尔路因
+tile.fluid.molten.blue_dwarven_steel.name=熔融蓝山矮人钢
+tile.fluid.molten.sarlluin.name=熔融路伊刚
 tile.fluid.molten.mithril_lotr.name=熔融秘银
 tile.fluid.molten.galvorn.name=熔融加尔沃恩
-tile.fluid.molten.edhelmir.name=熔融埃蒂尔米尔
-tile.fluid.molten.durnaur.name=熔融督尔瑙尔
+tile.fluid.molten.edhelmir.name=熔融埃蒂尔维尔
+tile.fluid.molten.durnaur.name=熔融都尔诺
 tile.fluid.molten.gulduril.name=熔融古尔都利尔
 tile.fluid.molten.coal.name=熔融煤炭
 
@@ -87,11 +87,11 @@ fluid.orc_steel.molten=熔融奥克钢
 fluid.uruk_steel.molten=熔融乌鲁克钢
 fluid.morgul_steel.molten=熔融魔古尔钢
 fluid.black_uruk_steel.molten=熔融黑乌鲁克钢
-fluid.blue_dwarven_steel.molten=熔融矮人钢(蓝色山脉)
-fluid.sarlluin.molten=熔融萨尔路因
+fluid.blue_dwarven_steel.molten=熔融蓝山矮人钢
+fluid.sarlluin.molten=熔融路伊刚
 fluid.mithril_lotr.molten=熔融秘银
 fluid.galvorn.molten=熔融加尔沃恩
-fluid.edhelmir.molten=熔融埃蒂尔米尔
-fluid.durnaur.molten=熔融督尔瑙尔
+fluid.edhelmir.molten=熔融埃蒂尔维尔
+fluid.durnaur.molten=熔融都尔诺
 fluid.gulduril.molten=熔融古尔都利尔
 fluid.coal.molten=熔融煤炭
