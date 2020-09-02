@@ -16,24 +16,24 @@ Non-preference ranking丨排名不分先后<br>
 #### Language File
 [Number_Sir](https://github.com/NumberSir)<br>
 #### Speech Files
-[Alone]<br>
+Alone<br>
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [DKExluna](https://github.com/DKExluna)<br>
-[Illuvatar]<br>
-[Kasparov]<br>
-[Metal]<br>
+Illuvatar<br>
+Kasparov<br>
+Metal<br>
 [Mores](https://www.mcmod.cn/center/90893)<br>
-[North_Dragon]<br>
+North_Dragon<br>
 [Number_Sir](https://github.com/NumberSir)<br>
-[Radagast]<br>
+Radagast<br>
 [ReginaAllemaniae](https://paratranz.cn/users/2098/profile)<br>
-[Shang1]<br>
-[skysonic]<br>
-[tbw]<br>
-[TGAchenzi]<br>
+Shang1<br>
+skysonic<br>
+tbw<br>
+TGAchenzi<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-[xvxiao]<br>
-[zhenyangwudi]<br>
+xvxiao<br>
+zhenyangwudi<br>
 #### Names Files
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
@@ -42,15 +42,23 @@ Non-preference ranking丨排名不分先后<br>
 [Mores](https://www.mcmod.cn/center/90893)<br>
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
+#### Chinese Wiki
+[Bound](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:Bound)<br>
+[Chiren_CQR](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:ChirenChen)<br>
+[EndsM](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:EndsM)<br>
+[中某人](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:%E4%B8%AD%E6%9F%90%E4%BA%BA)<br>
+[Number_Sir](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:NumberSir)<br>
+[Time-Traveller](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:Time-Traveller)<br>
+[Vaderlightsaber](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:A1s2d3ae)<br>
 ### MEI
-[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
-### METT
-[Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-[TUsama](https://github.com/TUsama)<br>
+### METT
 [light000](https://bbs.mcmod.cn/center/9666)<br>
+[Number_Sir](https://github.com/NumberSir)<br>
 [pc85](https://www.mcbbs.net/home.php?mod=space&uid=1653202)<br>
+[TUsama](https://github.com/TUsama)<br>
+[WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 ### LotR NEI
 [Number_Sir](https://github.com/NumberSir)<br>
 ### LotRTC (LotRTiC)
