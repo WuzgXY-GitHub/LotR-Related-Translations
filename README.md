@@ -57,7 +57,6 @@ zhenyangwudi<br>
 [light000](https://bbs.mcmod.cn/center/9666)<br>
 [Number_Sir](https://github.com/NumberSir)<br>
 [pc85](https://www.mcbbs.net/home.php?mod=space&uid=1653202)<br>
-[TUsama](https://github.com/TUsama)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 [Dawnwalker](https://github.com/Dawnwalker666)<br>
 ### LotR NEI
