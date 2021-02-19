@@ -1,4 +1,4 @@
-﻿#Written by Forten
+#Written by Forten
 #title:一句谜语
 #types:eriador,ruins,shire,rivendell
 #reward

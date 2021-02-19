@@ -1,0 +1,8 @@
+# Karseius
+#
+#title:Letter of a Merchant
+#author:{name:rhun_male}
+#types:rhun,nomad,gulf
+#reward
+#
+{name:rhun_male}, you mindless buffoon! I cannot believe you have persuaded me to do this. "Let us go South, my brother! Let us hunt, and make our fortune from the skins of the Southron beasts!" you said. "It will be so easy," you said. But what have I found here? Nothing but misery! It has taken me months to cross the accursed desert. Without those stinking sand-wanderers, I would have died of thirst! And now, I am in this land of savages, who sacrifice their sick and their old like beasts upon their altars! Yes, I bought some fine furs and skins on their markets, but I swear to the Great Eye, Brother, I shall not even dream of making this journey again! If I make it back to {choose:Rhúnost/Atalak/Taragal/Karslan/Karanoda} alive, you will have to pay me double!

@@ -1,4 +1,4 @@
-﻿#title:邀请函
+#title:邀请函
 #author:比尔博·巴金斯
 #types:shire
 交给小洞镇的巴索·博芬。

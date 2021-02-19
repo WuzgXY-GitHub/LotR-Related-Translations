@@ -1,0 +1,99 @@
+# Mevans
+#
+#title:Verses from the Taurelantë
+#author:Maeron Haradil
+#types:gondor,rivendell,umbar
+#reward
+#
+A part of the Taurelantë, or the Fall of the Taurethrim, as is told elsewhere in full by Maeron Haradil of the South-kingdom.
+
+...
+{choose:
+The trees were tall, the forest fair:
+through dappled leaves the sunlight shone
+in woodlands wide, and warmed the air
+in Sutherland, where few have gone.
+The call of beast and song of bird
+and fall of rain there sounded lone;
+no voices yet of Men were heard;
+no Elf there walked on grass or stone.
+
+As living mountains misten-crowned
+the mighty trees which sought the sky
+like towers climbed, beyond the ground
+to Tarmenel, to heaven high.
+And at their feet, the spreading roots
+like arches loomed in twilight green
+among the ferns, where fallen fruits
+and leaves lay down in caves unseen.
+An elder wonder long ago
+ere sight of eye, ere word of mouth:
+the Spring of Earth remembered so
+in Haradwaith: in deepest South...
+/
+Then came the wandering hunter-folk
+out of the plains where lions run,
+come far from vale where first they woke
+in flight from dark, to seek the Sun.
+The Forest-men they named themselves,
+and Forest took them as its own,
+and raised them not unlike to Elves:
+their homes they wrought in trees full-grown
+on carven flets above the earth;
+in sight of Stars, and Moon's fair light
+they filled the forest days with mirth
+and songs unwritten sung by night...
+/
+In deeps of time, in ages long
+the Forest-men grew fair and wise,
+and wove their woodlands into song
+beneath the trees, beneath the skies.
+There birds they named, and beasts they tamed,
+and lore of all the forest learned,
+though never once a branch they maimed
+nor bough they felled, nor vine they burned.
+
+For greater beings yet than they
+beneath the roofèd forest strode:
+old Mûmak, mighty walker grey;
+all Sutherland was his abode.
+And though a thousand years went by
+all memory to him remained;
+majestic still he marched on high:
+the lord of beasts, and yet unchained...
+/
+Then came the Númenóreans,
+the Dúnedain, the proud and grave;
+on Sundering Seas from western lands
+to Middle-earth they sailed the wave.
+To Haradwaith they roving came 
+in golden fleets, and southward turned
+beyond the bay of fated name,
+beyond the sands that ever burned,
+through rain, and roaring wind they passed
+where girdle round the Earth is thrown
+and still beyond, and came at last
+to distant shores of lands unknown.
+Alighting then beside a bay
+where wide a rushing river flowed,
+the Westmen cast their sails away
+and out upon the green they strode...
+/
+Then came the Ring-lord, tall and proud
+in raiment fair, with treasures gold
+and gleaming gems; with woven cloud
+and silken rain; with malice cold.
+And to the ruling Forest-king
+a gift he gave: a band of might,
+then bade the lord take up his Ring:
+and forest fair fell under night...
+/
+Yet in the hearts of Westernesse
+the Darkness too lay brooding long,
+and kindling in them great unrest
+woke mighty pride, and war-lust strong.
+Their golden sails they raised once more
+but over Sea now conquering came;
+no wisdom fair their ships now bore,
+but steel, and whip, and wicked flame...
+}

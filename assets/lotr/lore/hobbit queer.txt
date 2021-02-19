@@ -8,6 +8,7 @@
 
 听闻你最近有些怪异举止。我知道你还是个孩子，但我们家族在此名声一向很好，而{choose:跑进老林子/到夏尔边境外的地方去冒险/去找所谓的“精灵”/给孩子们讲那个疯巴金斯的什么“龙”啊“巫师”啊的故事}对咱们家族的名声可没什么好影响!
 
-某天我坐在{name:hobbitTavern_prefix}{name:hobbitTavern_suffix}，偶然听到{name:hobbit_male}和{name:hobbit_female}在谈论着和你相关的什么“冒险”，在小孩面前真是起了个坏榜样！我不得不对他们保证一定是听错了，因为像你这样的好孩子才不会对什么“冒险”感兴趣。
+某天我坐在{name:hobbitTavern_prefix}{name:hobbitTavern_suffix}，偶然听到{name:hobbit_male}和{name:hobbit_female}在谈论着和你相关的什么“冒险”，在小孩面前真是起了个坏榜样！
+我不得不对他们保证一定是听错了，因为像你这样的好孩子才不会对什么“冒险”感兴趣。
 
 这些就是我想给你说的，希望你给我清醒点！

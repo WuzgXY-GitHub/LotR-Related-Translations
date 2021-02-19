@@ -1,4 +1,4 @@
-﻿#by Gorbag12                                              
+#by Gorbag12                                              
 #title:煎饼配方
 #author:{name:hobbit_female}·{name:hobbit_surname}
 #types:shire

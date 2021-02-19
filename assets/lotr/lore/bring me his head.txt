@@ -1,14 +1,15 @@
-#written by:Gorbag12
+#æˆˆå·´æ ¼12 è‘—
 #
-#title:°ÑËûµÄÍ·Â­´øÀ´£¡
-#author:{name:orc_prefix}{name:orc_suffix}£¬{name:orc_prefix}{name:orc_suffix}µÄ´«Áî¹Ù
+#title:å¸¦ç»™ä¿ºä»–çš„è„‘è¢‹ï¼
+#author:{name:orc_prefix}{name:orc_suffix}ï¼Œ{name:orc_prefix}{name:orc_suffix}çš„æŠ„å†™å‘˜
 #types:ruins,gundabad,angmar,dol_guldur,mordor,isengard
 #reward
 #
-ºÙ£¬ÄãÕâ¸öÂúÉíÇù³æµÄ¼Ò»ï£¡ÀÏ°å¸æËß°³ÄãºÜÉÃ³¤ÁÔÉ±ÄÇÐ©ÁÔÎï£¡
+å˜¿ï¼ä½ ï¼åžƒåœ¾ï¼å¤´ç»™ä¿ºè¯´ä½ æ‰“çŒŽæŒºåŽ‰å®³ï¼
 
-ËûÃüÁî°³£¬Õâ¸ö´«Áî¹Ù£¬Èç¹û°³ÄÜ¸øÄãÐ´ÕÅÌõ×Ó£¬ÈÃ°³¸æËßÄã£¬°ÑÄÇ¸ö¶ñ³ôµÄ{name:gondor_male}µÄÍ·´øÀ´£¡ÄÇ´À»õ³°Ð¦ÀÏ°åµÄÆøÁ¦£¡ÈÃ°³ÃÇ¿´¿´ËûÊÇ²»ÊÇ»¹ÄÜÔÚÄÔ´ü¸úÉí×Ó·Ö¼ÒµÄÊ±ºòÐ¦µÃ³öÀ´£¡
+ä»–é—®ä¿ºï¼Œä¿ºè¿™æŠ„å†™å‘˜èƒ½ä¸èƒ½å†™ä¸ªä¿¡ç»™ä½ è¿™åžƒåœ¾ï¼Œå«ä½ å¸¦å›žè‡­å¡”å…‹{name:gondor_male}çš„è„‘è¢‹ï¼é‚£è ¢è›‹å˜²ç¬‘å’±ä¼Ÿå¤§çš„å¤´ã€‚
+è®©ä»–çœ‹ä»–è„‘è¢‹ä»Žè‚©è†€ä¸ŠæŽ‰ä¸‹æ¥æ—¶è¿˜ç¬‘ä¸ç¬‘å¾—å‡ºæ¥ï¼
 
-Èç¹ûÄãÄÜ°ÑÄÇ¼Ò»ïµÄÄÔ´ü´øÀ´£¬Îå°ÙÒø±Ò£¬ÎªÄãÕâ¶ñ³ôµÄÊÂ¼££¬½±Àø¸øÄã£¡Èç¹ûÄã´ø²»À´£¬ÄÇÄãÕâÎÛ»àµÄÄÔ´ü¾Í±£²»×¡ÁË£¬ÄãÕâÇù£¡
+å¸¦å›žé‚£å¡”å…‹çš„è„‘è¢‹ï¼Œä»–ç»™ä½ è¿™åžƒåœ¾åšçš„äº‹å¥–åŠ±äº”ç™¾é“¶å¸ï¼å¸¦ä¸å›žä»–çš„è„‘è¢‹ï¼Œå¤´è¦ä½ çš„è„‘è¢‹ï¼
 
-ÏÖÔÚ£¬È¥¸ÉÄã¸Ã¸ÉµÄ°É£¡
+çŽ°åœ¨æ»šï¼

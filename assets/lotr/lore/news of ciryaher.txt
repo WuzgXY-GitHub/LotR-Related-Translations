@@ -1,0 +1,19 @@
+# Karseius
+#
+#title:To Abadir, Prince of Khopazûl
+#author:{name:nearHaradrim_male}
+#types:harnennor,southron,umbar,gulf
+#reward
+#
+Tawînen:
+This day, the nineteenth of the seventh month, year 1050 of the Third Age:
+
+My {choose:most exalted/most beloved/most gracious/most excellent} Prince, your {choose:true servant/loyal servant} brings urgent tidings from the West.
+
+Not two days past, Ciryaher of Gondor conquered Ain an-Ahâr, and thus all the western coastlands are now his by claim of might. I learned that Ciryaher declared himself King of all the South, and is consolidating his forces in the city of Umbar. According to my spies, he intends to continue his conquests soon, and pursue further regions to the East and South.
+
+The Adûnâim host is not as large as we feared, yet their strength and cruelty is beyond all our experience. As your true servant, I strongly advise you not to declare war against Ciryaher. I do not believe we could defeat his armies in open battle... even if all our Mûmakil were loosed upon the field. Instead, if you offer him tributes of gold and ivory, he might leave our lands alone, so we could remain at peace.
+
+I continue to disguise myself amongst the royal interpreters. I hope to bring you better news soon, my Prince.
+
+I remain your most loyal servant.

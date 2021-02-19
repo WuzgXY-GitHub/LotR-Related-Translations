@@ -1,0 +1,17 @@
+#Written by Thaumablazer
+#
+#title:Stuck Under the Sun
+#author:{name:nearHaradrim_male}
+#types:harnennor,southron,umbar,nomad,gulf
+#
+I and my company have been stuck out in this accursed desert for many weeks.
+
+I await orders for a change in post, and yet I receive none. Our supply of waterskins runs ever lower, and my partner {name:nearHaradrim_male} collapsed from the heat a few days ago. He has recovered somewhat now, but I doubt he will be comfortable for long. I, too, have begun to suffer the heat.
+
+Have they forgotten us? Are we doomed to die under the blazing sun, with nobody to remember who we were, or that we were ever here?
+
+Is this what our doom has come to? Our lives to be slowly, painstakingly torn from our bodies; to be left as dried corpses, to rot in the sand?
+
+Is this the end for me?
+
+I cannot bear to think any further about it!

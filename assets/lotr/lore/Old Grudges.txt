@@ -1,4 +1,4 @@
-﻿# Written by Goran
+# Written by Goran
 #
 #author:{name:dunlending_male}
 #title:宿怨

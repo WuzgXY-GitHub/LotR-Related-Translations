@@ -1,0 +1,10 @@
+#Written by Forten
+#
+#title:A Riddle
+#types:shire,bree,eriador,ruins,rivendell
+#reward
+#
+I have a tongue and a soul, and I
+am born in twins, but not alive.
+
+What am I?

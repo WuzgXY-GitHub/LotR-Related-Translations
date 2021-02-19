@@ -1,0 +1,14 @@
+#title:Jewels among the Sands
+#author:{name:nearHaradrim_female} of Poros
+#types:harnennor,southron,umbar,gulf
+#reward
+#
+The burning sands of the desert are a place no traveller should tread. We of the Sunlands are no strangers to harsh and unforgiving climates, but the desert is too much, even for us.
+
+I pity those who have cause to journey across the inner deserts. Merchants and messengers, mostly. They pack their provisions, venture away, and if the Mighty One wills it, they return - though parched and burned by the heat. But some who make that journey do not come back to us.
+
+Though, among the peoples who dwell near to the desert, there exists a curious legend. They speak of some few lucky ones, who, long thought perished in the burning sands, instead returned alive to tell what they found therein. These fortunate ones say that even as they wandered, parched and dazed, close to death, they came upon a place of blessed life. Wondrous places they speak of, where cool water springs, and living trees grow, even beside the very dust of the desert... these are the jewels among the sands, which in the trader-tongue are named Oases.
+
+I do not know whether to believe these stories. I have never met anyone who has seen an Oasis with their own eyes. They seem to me too good to be true. Perhaps they are old, confused folk-tales, from times long ago, when waters flowed in courses that now lie dry and dead. Perhaps they are empty lies, comforts made for grieving families whose men ventured into the desert and were never seen again.
+
+But my dear friend, {name:nearHaradrim_male}, has lately been speaking much of Oases. He has become quite obsessed. It seems that he intends to venture out into the desert, and go in search of an Oasis. This seems madness to me, and I tell him he will surely die; but he dismisses my concerns. If he should make that journey, I fear it may be the last I see of him...

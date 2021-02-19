@@ -1,4 +1,4 @@
-﻿# 模组团队制作
+# 模组团队制作
 #
 #title:关于三叶草
 #author:{name:hobbit_female}·{name:hobbit_surname}

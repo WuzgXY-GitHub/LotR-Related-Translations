@@ -1,14 +1,14 @@
 #Written by LordDainTheAwsome
 #
-#title:�ӹȰ���ף���һ����ҳ
-#author:�ӹȰ��{name:dale_female}
+#title:河谷邦菜谱，第一〇六页
+#author:河谷邦的{name:dale_female}
 #types:dale
 #reward
 #
-�ӹȰ���������ķ��
+河谷邦糕饼，克拉姆。
 
-�䷽��
-* 2��С�����
-* 1��......
+配方：
+* 2磅小麦面粉
+* 1碗......
 
-[���ױ��ض��ˡ��������ӹȰ�����ǲ�������õ��������ƿ���ķ�ļ��ա�]
+[菜谱被截断了。看起来河谷邦的人们不想让你得到他们烹制克拉姆的技艺。]

@@ -1,4 +1,4 @@
-﻿#title:田间自挽
+#title:田间自挽
 #author:努尔能的不知名奴隶
 #types:mordor
 #reward

@@ -1,4 +1,4 @@
-﻿#Written by Thaumablazer
+#Written by Thaumablazer
 #
 #title:讣告
 #author:诊疗院的{name:gondor_male}

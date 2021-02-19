@@ -1,4 +1,4 @@
-﻿#title:来访者名单
+#title:来访者名单
 #author:{name:hobbit_male}和{name:hobbit_female}
 #types:shire
 {name:hobbit_male}·{name:hobbit_surname}

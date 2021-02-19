@@ -1,4 +1,4 @@
-﻿# Another example by the mod team.
+# Another example by the mod team.
 #
 #title:俺们的诗歌
 #types:

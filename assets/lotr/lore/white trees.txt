@@ -1,4 +1,4 @@
-﻿#Written by Forten
+#Written by Forten
 #title:白树
 #author:希尔巩
 #types:lothlorien,lindon,rivendell,eriador,gondor,eregion

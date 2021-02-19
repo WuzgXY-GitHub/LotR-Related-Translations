@@ -1,4 +1,4 @@
-﻿#title:那美丽的花朵在黄昏中
+#title:那美丽的花朵在黄昏中
 #author:{name:sindarin_female}
 #types:lindon,rivendell,lothlorien
 #reward

@@ -1,4 +1,4 @@
-﻿#Written by Ring9Of9fPower
+#Written by Ring9Of9fPower
 #
 #title:一个霍比特人的计划
 #author:{name:hobbit_male}·{name:hobbit_surname}

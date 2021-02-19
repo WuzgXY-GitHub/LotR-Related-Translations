@@ -1,4 +1,4 @@
-﻿#written by Sinthorion
+#written by Sinthorion
 #title:食人妖的财富
 #types:eriador,blue_mountains,durins_folk,shire
 #reward

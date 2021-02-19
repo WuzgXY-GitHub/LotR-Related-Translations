@@ -1,4 +1,4 @@
-﻿#Written by Thaumablazer
+#Written by Thaumablazer
 #
 #title:老林子
 #author:{name:hobbit_female}

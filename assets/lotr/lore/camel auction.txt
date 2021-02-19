@@ -1,11 +1,14 @@
-﻿# Karseius
+# Karseius
 #
 #title:拍卖公告
 #author:{name:nomad_male}
-#types:harnedor,southron,umbar,nomad,gulf
+#types:harnennor,southron,umbar,nomad,gulf
 #reward
 #
 远近的朋友们！来看一看，乐一乐！每年一度的骆驼大拍卖就快到咯！
+
 大骆驼，壮骆驼，快骆驼，漂亮骆驼我们全都有！
+
 带着你的存钱给自己挑个新伙伴！他们会带着你穿过沙漠！
+
 快来{choose:伊迪-伊勒尔/伊泽姆-乌尔祖/阿于卡普-阿玛姆}加入我们！只有骆驼！

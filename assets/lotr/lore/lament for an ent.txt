@@ -1,4 +1,4 @@
-﻿#title:恩特悼词
+#title:恩特悼词
 #author:{name:sindarin_male}
 #types:eregion,woodland_realm,lothlorien
 #reward

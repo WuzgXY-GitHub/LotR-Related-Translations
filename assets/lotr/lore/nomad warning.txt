@@ -1,8 +1,8 @@
-﻿# Karseius
+# Karseius
 #
 #title:一个警告
 #author:{name:umbar_male}
-#types:harnedor,southron,umbar,gulf
+#types:harnennor,southron,umbar,gulf
 #reward
 #
 People of the lands of all Ahâr! The following is urgent business, I beseech you! Beware of those Sand-Usurers!

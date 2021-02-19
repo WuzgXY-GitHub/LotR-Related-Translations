@@ -1,0 +1,21 @@
+#title:Special
+#types:
+#
+This book is very special.
+
+Why is that?
+#
+###
+
+#
+#comments do nothing
+#
+Because it wasn't written by me in-game. It was generated from a text file, converted into the book data format.
+
+This was a real challenge to code! It was very difficult to design an algorithm which can take any text file and put it into book form, splitting it nicely into pages, ensuring no page has too much text, and ensuring no page ends halfway through a word. It took a great deal of revising and changing to perfect this and fix unlikely bugs.
+
+But this means we can now have books of lore generating in structures, using lore texts written by us or people of the community. We can have histories, poems, songs, journals of travellers, helpful in-game hints concerning rare features, scattered tales of terrible haunted ruins in the far North of the world...
+
+This feature has been a very popular request, and I think it will lend a fantastic feeling of immersion to the world.
+
+So that is why this book is very special.
