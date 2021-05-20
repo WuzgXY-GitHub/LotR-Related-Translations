@@ -4,7 +4,7 @@
 #author:{name:dwarf_male}之子{name:dwarf_male}
 #types:durins_folk
 #
-今天我喝了{choose:五/六/七/八/九/十}大杯的麦芽酒。
+今天喝了{choose:五/六/七/八/九/十}大杯的麦芽酒。
 
 我与{name:dwarf_male}一起在矿洞中工作。我们已经深挖了足有{choose:一/二/三/四/五/六}小时了，就像每一个矮人应当做的一样！
 

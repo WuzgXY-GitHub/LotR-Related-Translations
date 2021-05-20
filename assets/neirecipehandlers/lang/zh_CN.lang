@@ -1,6 +1,6 @@
 neiRecipeHandlers.config.gui.title=NEI合成配方处理的配置列表
 
-neiRecipeHandlers.integration.name=NEI Recipe Handlers Integration
+neiRecipeHandlers.integration.name=NEI合成配方助手首选项
 
 neiRecipeHandlers.versionChecker.version.alpha=Alpha版
 neiRecipeHandlers.versionChecker.version.beta=Beta版
