@@ -1832,10 +1832,10 @@
   "lotr.date.shire.short": "夏尔历",
   "lotr.date.shire.long": "夏尔历",
   
-  "lotr.date.shire.format.weekdayOfMonth": "%s %s %d日",
+  "lotr.date.shire.format.weekdayOfMonth": "%3$s %2$d日 %1$s",
   "lotr.date.shire.format.weekdayOfSingleDayMonth": "%s %s",
   "lotr.date.shire.format.singleDayMonth": "%s",
-  "lotr.date.shire.format.year": "%s %d日",
+  "lotr.date.shire.format.year": "%s %d年",
   "lotr.date.shire.format.dateAndYear": "%s, %s",
 
   "lotr.date.shire.day.sterday": "星辰日",
