@@ -1644,6 +1644,10 @@
   "item.lotr.drink.cures_harmful": "治愈负面效果",
   "item.lotr.drink.damage": "饮用时造成%d点伤害",
   
+  "item.lotr.generic.currentOwner": "现在属于：%s",
+  "item.lotr.generic.previousOwner": "曾经属于：%s",
+  "item.lotr.generic.previousOwnerList": "曾经属于：",
+  
   "itemGroup.lotr.blocks":"中洲方块",
   "itemGroup.lotr.util":"中洲效用",
   "itemGroup.lotr.decorations":"中洲装饰",
@@ -1799,6 +1803,10 @@
   "biome.lotr.northern_mirkwood": "北黑森林",
   "biome.lotr.mirkwood_mountains": "黑森林山脉",
   "biome.lotr.morgul_vale": "魔古尔山谷",
+  "biome.lotr.dense_northlands_forest": "繁茂北森林",
+  "biome.lotr.snowy_northlands": "北地雪原",
+  "biome.lotr.snowy_northlands_forest": "北森林雪原",
+  "biome.lotr.dense_snowy_northlands_forest": "繁茂北森林雪原",
   
   "entity.lotr.ring_portal": "戒指传送门",
   
@@ -1811,6 +1819,11 @@
   "entity.lotr.dwarf_warrior": "矮人战士",
   "entity.lotr.galadhrim_warrior": "加拉兹民战士",
   "entity.lotr.uruk": "乌鲁克",
+  "entity.lotr.rohan_man": "洛汗人",
+  "entity.lotr.rohirrim_warrior": "洛汗战士",
+  "entity.lotr.gundabad_orc": "贡达巴德奥克",
+  "entity.lotr.dale_man": "河谷邦人",
+  "entity.lotr.dale_soldier": "河谷邦士兵",
   
   "item.lotr.hobbit_spawn_egg": "霍比特人刷怪蛋",
   "item.lotr.mordor_orc_spawn_egg": "魔多奥克刷怪蛋",
@@ -1821,9 +1834,16 @@
   "item.lotr.dwarf_warrior_spawn_egg": "矮人战士刷怪蛋",
   "item.lotr.galadhrim_warrior_spawn_egg": "加拉兹民战士刷怪蛋",
   "item.lotr.uruk_spawn_egg": "乌鲁克刷怪蛋",
+  "item.lotr.rohan_man_spawn_egg": "洛汗人刷怪蛋",
+  "item.lotr.rohirrim_warrior_spawn_egg": "洛汗战士刷怪蛋",
+  "item.lotr.gundabad_orc_spawn_egg": "贡达巴德奥克刷怪蛋",
+  "item.lotr.dale_man_spawn_egg": "河谷邦人刷怪蛋",
+  "item.lotr.dale_soldier_spawn_egg": "河谷邦士兵刷怪蛋",
   
   "entityname.lotr.generic": "%s,%s",
   "entityname.lotr.gondor_man": "刚铎的%s",
+  "entityname.lotr.rohan_man": "洛汗的%s",
+  "entityname.lotr.dale_man": "河谷邦的%s",
 
   "attribute.name.lotr.npc.ranged_inaccuracy": "NPC远程攻击偏离度",
   "attribute.name.lotr.npc.mount_attack_speed": "NPC骑乘攻击速度",
@@ -2980,6 +3000,7 @@
   "config.lotr.newWeatherRendering": "新的天气渲染",
   "config.lotr.newRainGroundParticles": "新的雨滴粒子",
   
+  "config.lotr.modMainMenu": "中州主菜单",
   "config.lotr.sepiaMap": "褐色地图",
   "config.lotr.mapLabels": "地图标记",
   
