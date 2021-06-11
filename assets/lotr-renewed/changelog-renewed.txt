@@ -1,6 +1,19 @@
 (This changelog details the updating of features to 1.15 Renewed. For LOTR Mod development history, see the changelog in the feature-complete 1.7.10 mod)
 
 Do not try to load your 1.7.10 worlds in the current Renewed version!
+=== 复兴-4.3 ===
+(2021 06 10)
+
+>>> 复兴版额外添加的:
++ 添加了狞猫
++ 为“散乱的(scatter)”类型的方块模型(即落叶和茅草地板)添加了y轴
+
+>>> 相比之前版本更改的:
+* 重新绘制了蓝山矮人镐的材质
+
+>>> 翻译:
+* 更新了波兰语、葡萄牙语(巴西)、斯洛伐克语、汉语、日语、莎士比亚英语、俄语、法语、西班牙语翻译
+
 === 复兴-4.2 ===
 (2021 06 06)
 

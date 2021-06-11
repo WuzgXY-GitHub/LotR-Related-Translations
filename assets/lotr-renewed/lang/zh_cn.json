@@ -1832,6 +1832,8 @@
   "entity.lotr.rivendell_elf": "幽谷精灵",
   "entity.lotr.rivendell_warrior": "幽谷战士",
   
+  "entity.lotr.caracal": "狞猫",
+  
   "item.lotr.hobbit_spawn_egg": "霍比特人刷怪蛋",
   "item.lotr.mordor_orc_spawn_egg": "魔多奥克刷怪蛋",
   "item.lotr.gondor_man_spawn_egg": "刚铎人刷怪蛋",
@@ -1852,6 +1854,8 @@
   "item.lotr.lindon_warrior_spawn_egg": "林顿战士刷怪蛋",
   "item.lotr.rivendell_elf_spawn_egg": "幽谷精灵刷怪蛋",
   "item.lotr.rivendell_warrior_spawn_egg": "幽谷战士刷怪蛋",
+  
+  "item.lotr.caracal_spawn_egg": "狞猫刷怪蛋",
   
   "entityname.lotr.generic": "%s,%s",
   "entityname.lotr.gondor_man": "刚铎的%s",
