@@ -1634,6 +1634,10 @@
   "item.lotr.silver_trimmed_blue_dwarven_chestplate": "镶银蓝山矮人胸甲",
   "item.lotr.silver_trimmed_blue_dwarven_leggings": "镶银蓝山矮人护腿",
   "item.lotr.silver_trimmed_blue_dwarven_boots": "镶银蓝山矮人靴子",
+  "item.lotr.gondor_shield": "刚铎盾牌",
+  "item.lotr.mordor_shield": "魔多盾牌",
+  "item.lotr.rohan_shield": "洛汗盾牌",
+  "item.lotr.dale_shield": "河谷邦盾牌",
   
   "item.lotr.drink.weak": "弱",
   "item.lotr.drink.light": "清淡",
@@ -1808,6 +1812,9 @@
   "biome.lotr.snowy_northlands_forest": "北森林雪原",
   "biome.lotr.dense_snowy_northlands_forest": "繁茂北森林雪原",
   "biome.lotr.tower_hills": "塔丘",
+  "biome.lotr.southron_coasts_forest": "南蛮子海滨森林",
+  "biome.lotr.umbar_forest": "乌姆巴尔森林",
+  "biome.lotr.umbar_hills": "乌姆巴尔丘陵",
   
   "entity.lotr.ring_portal": "戒指传送门",
   
@@ -1831,6 +1838,14 @@
   "entity.lotr.lindon_warrior": "林顿战士",
   "entity.lotr.rivendell_elf": "幽谷精灵",
   "entity.lotr.rivendell_warrior": "幽谷战士",
+  "entity.lotr.coast_southron": "海滨南蛮子",
+  "entity.lotr.coast_southron_warrior": "海滨南蛮子战士",
+  "entity.lotr.harnedhrim": "哈尔能民",
+  "entity.lotr.harnennor_warrior": "哈尔能战士",
+  "entity.lotr.blue_mountains_dwarf": "蓝色山脉矮人",
+  "entity.lotr.blue_mountains_warrior": "蓝色山脉战士",
+  "entity.lotr.umbar_man": "乌姆巴尔人",
+  "entity.lotr.umbar_soldier": "乌姆巴尔士兵",
   
   "entity.lotr.caracal": "狞猫",
   
@@ -1854,6 +1869,14 @@
   "item.lotr.lindon_warrior_spawn_egg": "林顿战士刷怪蛋",
   "item.lotr.rivendell_elf_spawn_egg": "幽谷精灵刷怪蛋",
   "item.lotr.rivendell_warrior_spawn_egg": "幽谷战士刷怪蛋",
+  "item.lotr.coast_southron_spawn_egg": "海滨南蛮子刷怪蛋",
+  "item.lotr.coast_southron_warrior_spawn_egg": "海滨南蛮子战士刷怪蛋",
+  "item.lotr.harnedhrim_spawn_egg": "哈尔能民刷怪蛋",
+  "item.lotr.harnennor_warrior_spawn_egg": "哈尔能战士刷怪蛋",
+  "item.lotr.blue_mountains_dwarf_spawn_egg": "蓝色山脉矮人刷怪蛋",
+  "item.lotr.blue_mountains_warrior_spawn_egg": "蓝色山脉战士刷怪蛋",
+  "item.lotr.umbar_man_spawn_egg": "乌姆巴尔人刷怪蛋",
+  "item.lotr.umbar_soldier_spawn_egg": "乌姆巴尔士兵刷怪蛋",
   
   "item.lotr.caracal_spawn_egg": "狞猫刷怪蛋",
   
@@ -1861,6 +1884,8 @@
   "entityname.lotr.gondor_man": "刚铎的%s",
   "entityname.lotr.rohan_man": "洛汗的%s",
   "entityname.lotr.dale_man": "河谷邦的%s",
+  "entityname.lotr.harnedhrim": "哈尔能的%s",
+  "entityname.lotr.umbar_man": "乌姆巴尔的%s",
 
   "attribute.name.lotr.npc.ranged_inaccuracy": "NPC远程攻击偏离度",
   "attribute.name.lotr.npc.mount_attack_speed": "NPC骑乘攻击速度",
@@ -2846,7 +2871,7 @@
   "faction.lotr.half_trolls.rank.chieftain": "统领 | 半食人妖统领",
   
   "factionrelation.lotr.ally": "同盟",
-  "factionrelation.lotr.friend": "朋友",
+  "factionrelation.lotr.friend": "之友",
   "factionrelation.lotr.neutral": "中立",
   "factionrelation.lotr.enemy": "敌人",
   "factionrelation.lotr.mortal_enemy": "宿敌",
@@ -3038,4 +3063,6 @@
   "config.lotr.alignmentDraining": "结盟值减少中",
   
   "config.lotr.forceMapLocations": "强制隐藏/显示地图位置"
+  
+  "config.lotr.generateBiomeJsons": "生成魔戒生物群系JSON文件"
 }
