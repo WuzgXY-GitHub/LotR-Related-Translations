@@ -1,0 +1,13 @@
+{
+  "speech": [
+    {
+      "conditions": {
+        "daytime": "morning"
+      },
+      "lines": [
+        "Quel beau matin, étranger !",
+        "Jourbon, #p !"
+      ]
+    }
+  ]
+}
