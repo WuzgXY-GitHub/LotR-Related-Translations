@@ -1,6 +1,24 @@
 (This changelog details the updating of features to 1.15 Renewed. For LOTR Mod development history, see the changelog in the feature-complete 1.7.10 mod)
 
 Do not try to load your 1.7.10 worlds in the current Renewed version!
+=== 复兴-4.4.1 ===
+(2021 07 10)
+
+>>> 相比之前版本更改的:
+* NPC在举盾时不会距敌过近
+* 多温尼安和河谷邦派系间关系默认为同盟
+
+>>> 相比之前版本修复的:
+* 修复了NPC在战斗中偶尔丢失攻击目标的问题
+* 修复了矮人和奥克在战斗中贴贴又因为离得不够近而不攻击的问题
+* 修复了“取消”自定义路径点按钮没用的问题
+* 修复了废弃自定义路径点导致界面崩溃的问题
+* 修复了资源包方法使用/alignment query无法正确获取结盟值的问题
+* 修复了/alignment命令对特殊派系(如黑胡奥恩、乌图姆诺)派系有用的问题
+
+>>> 翻译:
+* 更新了莎士比亚英语、葡萄牙语(巴西)、俄语、土耳其语、波兰语、法语、汉语和日语翻译
+
 === 复兴-4.4 ===
 (2021 07 06)
 
