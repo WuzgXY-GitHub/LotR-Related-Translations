@@ -3189,6 +3189,6 @@
   
   "config.lotr.forceMapLocations": "强制隐藏/显示地图位置",
   
-  "config.lotr.generateBiomeJsons": "生成魔戒生物群系JSON文件"
+  "config.lotr.generateBiomeJsons": "生成魔戒生物群系JSON文件",
   "config.lotr.forceFogOfWar": "强制启用/禁用战争迷雾"
 }
