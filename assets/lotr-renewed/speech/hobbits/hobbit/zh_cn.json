@@ -6,39 +6,39 @@
       },
       "lines": [
         "Short cuts make for long delays!",
-        "The only brew for the brave and true... comes from the Green Dragon!",
-        "Where would we Hobbits be without pipe-weed?",
-        "Don't you wish you lived in a Hobbit hole too?",
-        "Hobbit holes! Warmth, good food, and comfort.",
-        "It's a dangerous business, going out your front door.",
-        "The Sackville-Bagginses came for lunch yesterday. Now I can't find any of my plates, nor my mugs...",
+        "……只有 Green Dragon 的精酿才配得上勇气与真诚！",
+        "没了烟斗草，我们霍比特人可得咋办啊。",
+        "你难道不也希望住在一个霍比特人洞里么？",
+        "霍比特人洞！温暖，美食，以及舒适……",
+        "走出你家大门，这活可不安全。",
+        "萨克维尔-巴金斯一家人昨天来吃了顿午饭，现在我半个盘子也找不到了。杯子也是。",
         "The road goes ever on and on...",
-        "Adventures? Nasty things, they are. Make you late for dinner.",
-        "There's nothing quite like a pint of ale from the Green Dragon!",
-        "I don't know what I'd do without a good leaf of Longbottom on a hot summer's day!",
-        "I have relatives in Buckland. They're funny fellows...",
-        "The market in Stock is a great place for food, drink and pipe-weed!",
-        "Have you seen the frogs in the marshes around Frogmorton way?",
-        "The Northern Moors are wild and windy, but full of fine inns with homely hearths.",
-        "People tell of Elves in the woods near Willowbottom. I reckon it's just the Largefoot family!",
-        "It's best to avoid Sarn Ford. That's where all the travelling folk meet, and some of them can be very queer!",
+        "冒险？这事可没劲。你吃晚饭会迟的。",
+        "没什么比来自 Green Dragon 的一杯麦芽酒更好的了！",
+        "炎热的夏天，要是没了 Longbottom 的好烟草（leaf），我可真不知道我该干啥了。",
+        "雄鹿地有我的亲戚。伙计，他们可有意思了……",
+        "集会（镇？）的市场很不错，又有吃的又有喝的，还有烟斗草。",
+        "你见过 Frogmorton 路上沼泽里的青蛙吗？",
+        "The Northern Moors 又荒又多风，（懒得查词了，时间不够）but full of fine inns with homely hearths.",
+        "总有人说看见了 Willowbottom 旁边有精灵。我打赌，那只是长足一家人！",
+        "最好离 Sarn Ford 远点。那是旅行者们聚集的地方，里面有些人可说不好什么人！",
         "I don't want any adventures, thank you very much!",
-        "My knowledge of potatoes is second to only the Gamgees'!",
-        "On a breezy day I like to lie beneath an oak tree and sleep. Like we Hobbits should!",
-        "Longbottom leaf is the leaf of wonders! Is it not, #p?",
+        "除了甘姆吉一家，我对土豆的了解可是最棒的！",
+        "轻风吹拂的日子里，我就喜欢躺在大橡树下睡一觉。这就是咱该干的！",
+        "#p，Longbottom 的 leaf 可是 leaf 中之 leaf，对不对？",
         "My flowerbeds could do with a good sprinkling!",
         "For a jolly day out I suggest Needlehole... or food!",
-        "A fine meal is always the best option!",
-        "Mmm, buttered potato and peas...",
-        "Pipe-weed is good. Mushrooms are better!",
-        "I am fond of mushrooms out of a field.",
-        "Good plain food is the food for me.",
-        "I go to bed late and get up late for breakfast. It's the only way to be!",
-        "Gardening is a fine way to spend a day.",
-        "A cup of tea for me!",
-        "The parties in the Shire are the best you'll ever see. Food, drink and merriment!",
-        "You're almost as tall as old Bullroarer was! Have you heard the tale of how he created the game of golf?",
-        "They say the rich families keep treasure in their burrows. Chests packed with gold and silver... and jools!"
+        "吃顿好饭总是最棒的！",
+        "呣，马铃薯和豆子加黄油……",
+        "烟斗草不错，蘑菇更好！",
+        "这片地里，我对蘑菇的喜爱最甚！",
+        "好的家常菜对我来说就挺好。",
+        "昨晚睡晚了，起床也晚了，早餐也晚了。没办法！（不确定在说什么 I go to bed late and get up late for breakfast. It's the only way to be!）",
+        "打理园子很适合消磨时间。",
+        "给我来杯茶！",
+        "夏尔的聚会绝对是你所见中最棒的！吃的、喝的，以及乐子！",
+        "你已经几乎和老 Bullroarer 一样高了！有没有听说过他发明高尔夫（不确定是不是这么翻译的了）的故事？",
+        "听说富家都把财宝藏在自家地洞里。装满金银的箱子……还有 jools！（？？？）"
       ]
     },
     {
@@ -47,10 +47,10 @@
         "day_or_night": "day"
       },
       "lines": [
-        "Good day, #p.",
-        "Good day.",
-        "Good day!",
-        "Good day to you, #p! How are you doing?"
+        "#p，今天挺不错。",
+        "日安。",
+        "日安！",
+        "#p，祝你日安！近来过的怎么样？"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "biome": "#home"
       },
       "lines": [
-        "This here field is full of rabbits! Better get the little ones to chase them off!",
-        "My relatives in Bree tell of strange goings-on..."
+        "这片地里全是兔子！最好叫点小孩来抓抓它们！",
+        "在布理的亲戚告诉我，有奇怪的事在发生……"
       ]
     },
     {
@@ -69,8 +69,8 @@
         "daytime": "morning"
       },
       "lines": [
-        "Good morning!",
-        "Good morning to you!"
+        "早上好！",
+        "祝你早安！"
       ]
     },
     {
@@ -80,8 +80,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Good morning, #p!",
-        "Good morning to you, #p!"
+        "#p，早上好！",
+        "祝你早上好啊，#p！"
       ]
     },
     {
@@ -90,8 +90,8 @@
         "daytime": "afternoon"
       },
       "lines": [
-        "Good afternoon!",
-        "Good afternoon to you!"
+        "下午好！",
+        "祝你下午好！"
       ]
     },
     {
@@ -101,8 +101,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Good afternoon, #p!",
-        "Good afternoon to you, #p!"
+        "#p，下午好！",
+        "祝你下午好啊，#p！"
       ]
     },
     {
@@ -111,8 +111,8 @@
         "daytime": "evening"
       },
       "lines": [
-        "Good evening!",
-        "Good evening to you!"
+        "晚上好！",
+        "祝你晚上好！"
       ]
     },
     {
@@ -122,8 +122,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Good evening, #p!",
-        "Good evening to you, #p!"
+        "#p，祝你早上好！",
+        "祝你晚上好啊，#p！"
       ]
     },
     {
@@ -133,7 +133,7 @@
         "weather": "clear"
       },
       "lines": [
-        "What a pretty sky up there!"
+        "这天，真漂亮！"
       ]
     },
     {
@@ -144,8 +144,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Isn't it a beautiful sunrise, #p?",
-        "Oh, good morning, #p. I was just watching the sun come up. Isn't it nice?"
+        "日出了，#p，你看那边，这景色美不美？",
+        "#p，早上好哇。我在看太阳升上来的美景。"
       ]
     },
     {
@@ -156,8 +156,8 @@
         "rank": ">=guest"
       },
       "lines": [
-        "Isn't it a beautiful sunset, #p?",
-        "Oh, good evening, #p. I was just watching the sun go down. Isn't it nice?"
+        "#p，日落了，这景色多漂亮啊。",
+        "晚上好，#p。我正在看太阳落下山去，美景啊！"
       ]
     },
     {
@@ -166,7 +166,7 @@
         "day_or_night": "night"
       },
       "lines": [
-        "Well, I'd best be off to bed!"
+        "呃，我该上床了！"
       ]
     },
     {
@@ -177,8 +177,8 @@
       "lines": [
         "May the hair on your toes never fall out, #p!",
         "May the hair on your toes never fall out.",
-        "Always a pleasure, #p!",
-        "You're not bad for one of the Big Folk!"
+        "#p，乐意效劳！",
+        "大种人里，你可不是个坏家伙！"
       ]
     },
     {
@@ -187,8 +187,8 @@
         "rank": ">=bounder"
       },
       "lines": [
-        "Oh, it's you, #p! I didn't recognise you at first, see.",
-        "See? I always said there was good Big Folk, like you, #p!"
+        "#p，是你啊！哈哈，我刚才甚至没认出你。",
+        "看见没？我总说大种人里也有不错的，比如你，#p！"
       ]
     },
     {
