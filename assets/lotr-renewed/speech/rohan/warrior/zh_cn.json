@@ -1,361 +1,200 @@
 {
-  "speech": [
-    {
-      "conditions": {
-        "relation": "friendly"
-      },
-      "lines": [
-        "人类时代已经不复先前荣光了。",
-        "希望看到人类时代回到从前的辉煌。",
-        "这里自古以来就是我们的土地，我们当用生命守卫它。",
-        "里德马克有全中洲最好的马儿！",
-        "小心乌鲁克族。他们总是成群结队，烧杀抢掠后留下一堆残垣断壁。",
-        "洛汗先祖长眠处，新诞襁褓从此生。",
-        "远处狼嚎比奥克更骇人。",
-        "希望你没忘了喂马！",
-        "在这黑暗时期，我们总被外敌所困。",
-        "黑暗魔君的手眼折磨我们已久。",
-        "我真想知道这群黑蛮地人怎么又蠢又瞎……哦有事吗，#p？",
-        "你听到这首锤手海尔姆的歌了吗？听说他与黑蛮地人搏斗到生命最后一刻。",
-        "你听到这首锤手海尔姆的歌了吗？听说人们在雪中发现他的尸体，手上仍有黑蛮地人的血迹。",
-        "那群黑蛮地野人叫我们稻草头。说真的，#p，我就是用稻草做头发也比沾满粪土强！",
-        "这片地上好马多得是，#p，身强体壮，随时待战！",
-        "好马还需良草喂，#p。别忘了喂饱你的马儿！",
-        "这些年石国的日子不好过了。",
-        "人们说南蛮子正在哈尔能河对面野蛮生长。",
-        "恐怕没多久后我们要出兵和哈尔能河对面的暴徒再来一场恶战。",
-        "我们和太阳地的海盗还有笔旧账没有算。",
-        "自从埃奥尔带我们定居这里，已经有五百多年过去了。",
-        "埃奥尔一族，自豪而真诚！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest"
-      },
-      "lines": [
-        "你好，#p！",
-        "别忘了喂你的马儿！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest"
-      },
-      "lines": [
-        "哟，陌生人！",
-        "嗨！你从哪儿来？"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "biome": "#home"
-      },
-      "lines": [
-        "你正在里德马克的绿野上漫步。",
-        "这里最近不太平，#p。奥克老是越过边界。",
-        "我们必须得从这里把奥克的脏东西清理出去，#p。"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest",
-        "biome": "#home"
-      },
-      "lines": [
-        "你带了什么新鲜事来，#p？",
-        "在马克上乱逛时小心点，最近我们敌人很多。"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest",
-        "in_conversation": "other"
-      },
-      "lines": [
-        "别吵！陌生人！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<footman",
-        "in_conversation": "other"
-      },
-      "lines": [
-        "安静！",
-        "别插嘴！我们在说话！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<footman",
-        "in_conversation": "other"
-      },
-      "lines": [
-        "你有什么资格在我们的战争会议上插嘴！管好你自己，#p。"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest & <atarms"
-      },
-      "lines": [
-        "又见面了啊，#p。",
-        "你好啊，#p。你所效忠的是哪一方土地？"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<atarms",
-        "biome": "#home"
-      },
-      "lines": [
-        "欢迎来到里德马克。",
-        "欢迎来到洛汗。你所效忠的是哪一方土地？"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=guest & <atarms",
-        "biome": "#home"
-      },
-      "lines": [
-        "欢迎来到里德马克，#p。",
-        "欢迎来到洛汗的土地，#p！",
-        "欢迎，#p。什么风把你吹到洛汗来？",
-        "欢迎来到洛汗，#p。",
-        "你好，#p！什么风把你吹到里德马克了？"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<footman"
-      },
-      "lines": [
-        "#p，我们是洛汗的骠骑！",
-        "你竟然和金森里的女巫交好？德维莫丁里全是谎言的网。",
-        "这里很少有旅人经过。你有什么目的？"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=atarms & <captain"
-      },
-      "lines": [
-        "向你敬礼，#p，马克之友！",
-        "我听过许多你以马克之名所做的善举，#p。"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=atarms"
-      },
-      "lines": [
-        "让我们齐心协力！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=rider"
-      },
-      "lines": [
-        "向你致敬，#p，马克骠骑！",
-        "我们会并肩作战，#p！",
-        "同为埃奥尔一族，我们会并肩作战！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=captain"
-      },
-      "lines": [
-        "我的誓友，#p，我愿追随你到世界末日！",
-        "#p，我会与你并肩作战。"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": ">=marshal"
-      },
-      "lines": [
-        "打仗时我会听你指挥！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "pledge_relation": "this"
-      },
-      "lines": [
-        "你现在听命于埃奥尔家族，#p。",
-        "你现在隶属埃奥尔家族，不要让你的名号蒙羞。"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "biome": "#home",
-        "daytime": "evening | dusk",
-        "weather": "clear"
-      },
-      "lines": [
-        "太阳落到山下面去了",
-        "这是马克的落日。"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "daytime": "dusk | night"
-      },
-      "lines": [
-        "天色很晚了。小心黑暗里的恶狼，#p。"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "rank": "<guest",
-        "biome": "#home",
-        "daytime": "dusk | night"
-      },
-      "lines": [
-        "这么晚了还有陌生人在马克的土地上游荡，你有什么事吗？"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "daytime": "dawn",
-        "weather": "clear"
-      },
-      "lines": [
-        "快看那边！太阳升起来了！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "weather": "rain"
-      },
-      "lines": [
-        "大雨要来了，可能是东方吹来的暴风。",
-        "云层在翻滚，看好你的马儿！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "biome": "lotr:anorien"
-      },
-      "lines": [
-        "我一直想去石国看看。",
-        "我早都想去石国了，毕竟是我们的老朋友。",
-        "我想去石国很久了，现在估计能去蒙德堡看看？"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile"
-      },
-      "lines": [
-        "看见你在那我就觉得恶心！",
-        "站着尿裤子吧，#p！",
-        "你死期到了，#p！",
-        "马克之敌，没人可怜你！",
-        "埃奥尔之敌，没人可怜你！",
-        "滚，不然就死在这儿！",
-        "为你的恶行付出代价，#p！",
-        "你的罪恶终结于此！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "biome": "#home"
-      },
-      "lines": [
-        "别出现在我们眼皮子底下，#p！",
-        "马克不欢迎你，#p！",
-        "里德马克不是你这东西该来的地方！",
-        "你早该滚出这地方了！",
-        "你这蠢东西，胆敢进入我们的土地！",
-        "把你的脏脚从马克的土地上拿开！",
-        "要么滚出去，要么被我们的矛扎死！",
-        "不想死就从这里滚出去！",
-        "快滚！别回来！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "pledge": "lotr:isengard"
-      },
-      "lines": [
-        "受死吧，你这艾森加德爪牙！",
-        "这里不收艾森加德狗杂种！",
-        "你这东西，竟然沦为艾森加德走狗！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "pledge": "lotr:isengard"
-      },
-      "lines": [
-        "你这东西，竟然沦为魔多爪牙！",
-        "索伦的狗腿子！滚开！",
-        "滚开！魔多爪牙！",
-        "让你主子的脏爪子别碰我们的黑马！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "hostile",
-        "pledge_relation": "bad"
-      },
-      "lines": [
-        "你会后悔向大敌效忠！",
-        "你这东西，竟然沦为大敌走狗！",
-        "大敌的爪牙！滚开！"
-      ]
-    },
-    {
-      "conditions": {
-        "relation": "friendly",
-        "hired": "own"
-      },
-      "lines": [
-        "为了洛汗！为了百姓！",
-        "让我们齐心协力！#p！",
-        "让我们为里德马克并肩作战，#p！",
-        "为了里德马克！",
-        "我们敌人必将万劫不复！",
-        "我们将并肩杀敌，斩获荣誉，#p！",
-        "马克之敌只会在他们的老家发颤！",
-        "让我们并肩作战，为荣誉，为洛汗而战！",
-        "洛汗之敌会跪在我们脚下发颤！",
-        "奥克和山区人别想在我们眼皮子底下作祟！",
-        "猎杀奥克时刻！",
-        "为了国王！为了埃多拉斯！",
-        "让我们并肩作战，洗刷大敌的污迹！"
-      ]
-    }
-  ]
+    "parent": "lotr:rohan/common",
+    "speech": [{
+            "conditions": {
+                "relation": "friendly"
+            },
+            "lines": [
+                "这片地方从我们父辈那里得来，他们又从其父辈手中接过。因此我们必须世代守护这里。"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "biome": "#home"
+            },
+            "lines": [
+                "我们得把那群奥克脏东西赶出去，#p。"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "rank": "<guest",
+                "biome": "#home"
+            },
+            "lines": [
+                "你带了什么新鲜事来，#p？",
+                "在马克上乱逛时小心点，最近我们敌人很多。"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "rank": "<footman",
+                "in_conversation": "other"
+            },
+            "lines": [
+                "你有什么资格在我们的战争会议上插嘴！管好你自己，#p。"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "rank": "<footman"
+            },
+            "lines": [
+                "#p，我们是洛汗的骠骑！",
+                "这里很少有旅人经过。你有什么目的？"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "rank": ">=atarms"
+            },
+            "lines": [
+                "让我们齐心协力！"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "rank": ">=rider"
+            },
+            "lines": [
+                "我们会并肩作战，#p！",
+                "同为埃奥尔一族，我们会并肩作战！"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "rank": ">=captain"
+            },
+            "lines": [
+                "我的誓友，#p，我愿追随你到世界末日！",
+                "#p，我会与你并肩作战。"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "rank": ">=marshal"
+            },
+            "lines": [
+                "打仗时我会听你指挥！"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "pledge_relation": "this"
+            },
+            "lines": [
+                "你现在听命于埃奥尔家族，#p。",
+                "你现在隶属埃奥尔家族，不要让你的名号蒙羞。"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "rank": "<guest",
+                "biome": "#home",
+                "daytime": "dusk | night"
+            },
+            "lines": [
+                "这么晚了还有陌生人在马克的土地上游荡，你有什么事吗？"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "biome": "lotr:anorien"
+            },
+            "lines": [
+                "我想来石国很久了，现在估计能去蒙德堡看看？"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "hostile"
+            },
+            "lines": [
+                "看见你在那我就觉得恶心！",
+                "站着尿裤子吧，#p！",
+                "马克之敌，没人可怜你！",
+                "埃奥尔之敌，没人可怜你！",
+                "要么滚，要么受死！",
+                "你的罪行终结于此！"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "hostile",
+                "biome": "#home"
+            },
+            "lines": [
+                "你这蠢东西，胆敢进入我们的土地！",
+                "把你的脏脚从马克的土地上拿开！",
+                "要么滚出去，要么被我们的矛扎死！",
+                "不想死就从这里滚出去！",
+                "快滚！别回来！"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "hostile",
+                "pledge": "lotr:isengard"
+            },
+            "lines": [
+                "受死吧，你这艾森加德爪牙！"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "hostile",
+                "pledge_relation": "bad"
+            },
+            "lines": [
+                "你会后悔向大敌效忠！"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "hostile",
+                "pledge": "lotr:mordor"
+            },
+            "lines": [
+                "爬回你黑暗之地的主子那儿去！",
+                "空着手回去见主子吧！",
+                "没有给魔多的马了！",
+                "再也没有给你们主子的马了！",
+                "让你主子的脏爪子别碰我们的黑马！",
+                "你就是想偷马的脏东西，#p？做你的梦去吧！",
+                "你这下贱的东西，别想从马克手里搞到马！"
+            ]
+        },
+        {
+            "conditions": {
+                "relation": "friendly",
+                "hired": "own"
+            },
+            "lines": [
+                "为了洛汗！为了百姓！",
+                "让我们齐心协力！#p！",
+                "让我们为里德马克并肩作战，#p！",
+                "为了里德马克！",
+                "我们敌人必将万劫不复！",
+                "我们将并肩杀敌，斩获荣誉，#p！",
+                "马克之敌只会在他们的老家发颤！",
+                "让我们并肩作战，为荣誉，为洛汗而战！",
+                "洛汗之敌会跪在我们脚下发颤！",
+                "奥克和山区人别想在我们眼皮子底下作祟！",
+                "猎杀奥克时刻！",
+                "为了国王！为了埃多拉斯！",
+                "让我们并肩作战，洗刷大敌的污迹！"
+            ]
+        }
+    ]
 }
