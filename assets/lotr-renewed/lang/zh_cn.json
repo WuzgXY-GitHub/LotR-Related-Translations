@@ -1860,7 +1860,7 @@
   "biome.lotr.northern_dale": "河谷邦北部",
   "biome.lotr.rivendell": "幽谷",
   "biome.lotr.rivendell_hills": "幽谷丘陵",
-  "biome.lotr.western_gondor": "刚铎西部",
+  "biome.lotr.further_gondor": "刚铎远境",
   "biome.lotr.shire_moors": "夏尔荒原",
   "biome.lotr.white_downs": "白岗",
   "biome.lotr.midgewater": "蚊水泽",
@@ -2714,6 +2714,7 @@
   "maplabel.lotr.westmarch": "西界",
   "maplabel.lotr.gondor": "刚铎",
   "maplabel.lotr.bay_of_belfalas": "贝尔法拉斯湾",
+  "maplabel.lotr.cobas_haven": "科巴斯港",
   "maplabel.lotr.ash_mountains": "灰烬山脉",
   "maplabel.lotr.shadow_mountains": "黯影山脉",
   "maplabel.lotr.udun": "乌顿",
@@ -3178,6 +3179,11 @@
   "config.lotr.immersiveSpeechDuration": "沉浸对话保持时长",
   
   "config.lotr.dolAmrothChestplateWings": "多阿姆洛斯胸甲上翅膀的羽翼数",
+  "config.lotr.mannishWomenUseAlexModelStyle": "使用'Alex'模型的人类女性NPC",
+  "config.lotr.elfWomenUseAlexModelStyle": "使用'Alex'模型的精灵女性NPC",
+  "config.lotr.dwarfWomenUseAlexModelStyle": "使用'Alex'模型的矮人女性NPC",
+  "config.lotr.hobbitWomenUseAlexModelStyle": "使用'Alex'模型的霍比特女性NPC",
+  "config.lotr.orcWomenUseAlexModelStyle": "使用'Alex'模型的奥克雌性NPC",
   
   "config.lotr.windAmbience": "环境风声",
   "config.lotr.newRainSounds": "新的雨声",
