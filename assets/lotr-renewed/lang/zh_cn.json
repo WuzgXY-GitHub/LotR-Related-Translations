@@ -1782,7 +1782,7 @@
   "biome.lotr.misty_mountains":"迷雾山脉",
   "biome.lotr.shire_woodlands":"夏尔林地",
   "biome.lotr.river": "河流",
-  "biome.lotr.trollshaws": "食人妖洞窟",
+  "biome.lotr.trollshaws": "食人妖森林",
   "biome.lotr.blue_mountains": "蓝色山脉",
   "biome.lotr.eriador": "埃利阿多",
   "biome.lotr.lone_lands": "孤土",
@@ -2321,8 +2321,8 @@
   "waypoint.lotr.ford_of_bruinen":"布茹伊能渡口",
   "waypoint.lotr.ford_of_bruinen.lore":"响水河流入幽谷处的浅滩。",
 
-  "waypoint.lotr.trollshaws":"食人妖森林",
-  "waypoint.lotr.trollshaws.lore":"荒凉奇怪的森林，散布着鲁道尔的古旧城堡废墟，以及黑暗的洞穴，食人妖在其中筑巢。",
+  "waypoint.lotr.trolls_cave":"食人妖洞窟",
+  "waypoint.lotr.trolls_cave.lore":"三只无名食人妖的废弃巢穴，很久之前它们的生命在此终结。",
 
   "waypoint.lotr.carn_dum":"卡恩督姆",
   "waypoint.lotr.carn_dum.lore":"古老的安格玛王国首都。",
