@@ -1,7 +1,7 @@
 (This changelog details the updating of features to 1.15 Renewed. For LOTR Mod development history, see the changelog in the feature-complete 1.7.10 mod)
 
 Do not try to load your 1.7.10 worlds in the current Renewed version!
-=== 复兴-5.1 ===
+=== 复兴-5.1 === 
 (2021 11 17)
 
 >>> 从1.7.10移植的特性:
