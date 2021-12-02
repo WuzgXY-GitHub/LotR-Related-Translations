@@ -1713,6 +1713,12 @@
   "item.lotr.coast_southron_shield": "海滨南蛮子盾牌",
   "item.lotr.umbar_shield": "乌姆巴尔盾牌",
   "item.lotr.culumalda_boat": "库露瑁勒达船",
+  "item.lotr.orc_bone": "奥克骨头",
+  "item.lotr.elf_bone": "精灵骨头",
+  "item.lotr.dwarf_bone": "矮人骨头",
+  "item.lotr.hobbit_bone": "霍比特骨头",
+  "item.lotr.troll_bone": "食人妖骨头",
+  "item.lotr.book_of_true_silver": "真银之书",
   
   "item.lotr.drink.weak": "弱",
   "item.lotr.drink.light": "清淡",
@@ -1765,13 +1771,15 @@
   "container.lotr.elven_forge": "精灵锻炉",
   "container.lotr.orc_forge": "奥克锻炉",
   "container.lotr.hobbit_oven": "霍比特烤炉",
-   
-  "container.lotr.keg": "小桶",
-  "container.lotr.keg.empty": "空",
-  "container.lotr.keg.brewing": "酿造%s(%s)",
-  "container.lotr.keg.full": "%s (%s) x %d",
+  
+  "container.lotr.keg.empty": "小桶 - 空",
+  "container.lotr.keg.brewing": "小桶 - 酿造中",
+  "container.lotr.keg.full": "小桶 - 满",
+  "container.lotr.keg.item_subtitle": "%2$s %1$s",
   "container.lotr.keg.start_brewing": "开始酿造",
   "container.lotr.keg.finish_brewing": "终止酿造",
+  "container.lotr.keg.finish_brewing.tooltip.allowed": "现在终止酿造会得到%s饮料",
+  "container.lotr.keg.finish_brewing.tooltip.not_allowed": "必须至少酿到%s饮料",
   
   "dimension.lotr.middle_earth": "中洲",
   
@@ -2996,6 +3004,8 @@
   "factionrelation.lotr.enemy": "敌人",
   "factionrelation.lotr.mortal_enemy": "宿敌",
   
+  "lotr.alignment.break_pledge": "打破宣誓",
+  
   "stat.lotr.interact_faction_crafting_table":"与派系工作台互动次数",
   "stat.lotr.throw_ring_in_fire":"将戒指扔进火里的次数",
   "stat.lotr.interact_alloy_forge": "与合金锻炉的互动次数",
@@ -3022,6 +3032,10 @@
   "chat.lotr.ft.ticks": "在%d秒后迅速旅行...",
   "chat.lotr.ft.motion": "迅速旅行停止。不要移动！",
   "chat.lotr.ft.offlineTick": "自从你上次上线(%s之前)以来, 你的快速旅行冷却已经恢复到了%s",
+  "chat.lotr.align.insufficient": "你至少要与%2$s有%1$s结盟值才能这样做",
+  "chat.lotr.align.insufficient.2": "你至少要与%2$s或%3$s有%1$s结盟值才能这样做",
+  "chat.lotr.align.insufficient.3": "你至少要与%2$s、%3$s或%4$s有%1$s结盟值才能这样做",
+  "chat.lotr.align.insufficient.more": "你至少要与%2$s、%3$s、%4$s或(还有%d个)有%1$s结盟值才能这样做",
   "chat.lotr.pledge.break.intentional": "你打破了对%s的誓言!",
   "chat.lotr.pledge.break.unintentional": "%s对你失去信任，你的誓言被废除了!",
   "chat.lotr.pledge.killWarn": "小心! 你的行为将会威胁到对%s的誓言!",
@@ -3194,6 +3208,8 @@
   "config.lotr.npcTalkToPlayerMaxDuration": "NPC同玩家交谈 - 最大时长",
   "config.lotr.areasOfInfluence": "派系影响区域",
   "config.lotr.alignmentDraining": "结盟值减少中",
+  
+  "config.lotr.smallerBees": "迷你蜜蜂",
   
   "config.lotr.forceMapLocations": "强制隐藏/显示地图位置",
   
