@@ -3912,7 +3912,7 @@ entity.lotr.GiraffeRug.name=长颈鹿皮毯
 
 lotr.travellingTrader.arrive=%s到了附近
 lotr.travellingTrader.arriveMP=%s到了%s附近
-lotr.travellingTrader.depart=%s去了
+lotr.travellingTrader.depart=%s离开了
 
 lotr.unitinfo.Banner=旗手为附近同派系的NPC提供各种加成
 
