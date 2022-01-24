@@ -2173,7 +2173,7 @@
   "gui.lotr.factions.unpledge.desc.2": "你将失去大量对其结盟值，且一段时间内将无法再对任一派系效忠.",
   "gui.lotr.factions.pledgeLocked": "你无法获取该派系超过%1$s的更多结盟值，因为你已经对%2$s效忠了",
   "gui.lotr.factions.civilianKills.yes": "该派系鼓励击杀平民",
-  "gui.lotr.factions.civilianKills.no": "该鼓励不鼓励击杀平民",
+  "gui.lotr.factions.civilianKills.no": "该派系不鼓励击杀平民",
   
   "gui.lotr.message.dismiss": "忽略",
   "gui.lotr.message.notDisplayedAgain": "本信息将不会再次展示",
