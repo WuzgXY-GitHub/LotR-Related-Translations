@@ -1,6 +1,6 @@
-## 我们将会在这个库以资源包的方式释出[魔戒](https://www.mcbbs.net/thread-1084629-1-1.html)（1.7.10）及其附属模组的汉化，这个库的翻译会比官方中文文件更新得更频繁。
+## 我们将会在这个库以资源包的方式释出[魔戒-传承版](https://www.mcbbs.net/thread-1084629-1-1.html)（1.7.10）及其附属模组的汉化，这个库的翻译会比官方中文文件更新得更频繁。
 
-## This repository is used to store CHS translations of LotR Mod (1.7.10) and its dependent mods. Translations will be put into resource packs and be released out.
+## This repository is used to store CHS translations of LotR Mod Legacy(1.7.10) and its dependent mods. Translations will be put into resource packs and be released out.
 
 **使用方式（尚未实装）：**
 
@@ -12,10 +12,10 @@
 ## Contributors丨贡献者
 Non-preference ranking丨排名不分先后<br>
 <br>
-### LotR
-#### Language File
+### LotR-Legacy | 魔戒-传承版
+#### Language File | 语言文件
 [Number_Sir](https://github.com/NumberSir)<br>
-#### Speech Files
+#### Speech Files | 对话文件
 Alone<br>
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [DKExluna](https://github.com/DKExluna)<br>
@@ -34,15 +34,15 @@ TGAchenzi<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 xvxiao<br>
 zhenyangwudi<br>
-#### Names Files
+#### Names Files | 名称文件
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-#### Lore Files
+#### Lore Files | 书籍文件
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [Mores](https://www.mcmod.cn/center/90893)<br>
 [Number_Sir](https://github.com/NumberSir)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-#### Chinese Wiki
+#### Chinese Wiki | 中文维基
 [Bound](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:Bound)<br>
 [Chiren_CQR](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:ChirenChen)<br>
 [EndsM](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:EndsM)<br>
@@ -50,19 +50,19 @@ zhenyangwudi<br>
 [Number_Sir](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:NumberSir)<br>
 [Time-Traveller](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:Time-Traveller)<br>
 [Vaderlightsaber](https://lotrmc.huijiwiki.com/wiki/%E7%94%A8%E6%88%B7:A1s2d3ae)<br>
-### MEI
+### MEI | 中洲工业
 [Chiren_CQR](https://github.com/ChirenCQR)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-### METT
+### METT | 中洲神秘学
 [light000](https://bbs.mcmod.cn/center/9666)<br>
 [Number_Sir](https://github.com/NumberSir)<br>
 [pc85](https://www.mcbbs.net/home.php?mod=space&uid=1653202)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
 [Dawnwalker](https://github.com/Dawnwalker666)<br>
-### LotR NEI
+### LotR NEI | NEI魔戒拓展
 [Number_Sir](https://github.com/NumberSir)<br>
-### LotRTC (LotRTiC)
+### LotRTC (LotRTiC) | 中洲匠魂
 [Twilight_Two](https://www.mcbbs.net/home.php?mod=space&uid=1545237)<br>
 [WuzgXY](https://github.com/WuzgXY-GitHub)<br>
-### WISLA
+### WISLA | 索隆在看什么
 [Number_Sir](https://github.com/NumberSir)<br>
