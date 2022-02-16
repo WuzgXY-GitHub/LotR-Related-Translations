@@ -1,5 +1,5 @@
-#title:灰袍巫师
-#author:Léofred, the Scribe
+﻿#title:灰袍巫师
+#author:抄写员 利奥弗雷德
 #types:shire,rivendell,eriador,lindon
 #reward
 #

@@ -1,5 +1,5 @@
-#title:白袍巫师
-#author:Léofred, the Scribe
+﻿#title:白袍巫师
+#author:抄写员 利奥弗雷德
 #types:rohan,isengard,gondor,rivendell,lindon,eriador,lothlorien,dale
 #reward
 #

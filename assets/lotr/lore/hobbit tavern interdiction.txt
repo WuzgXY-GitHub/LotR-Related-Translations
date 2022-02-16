@@ -1,7 +1,7 @@
-#Written by Thaumablazer
+﻿#Written by Thaumablazer
 #
 #title:禁入通知
-#author:Tavern Staff
+#author:酒馆员工
 #types:shire
 #
 亲爱的{name:hobbit_male}{name:hobbit_surname}先生，

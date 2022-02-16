@@ -1,5 +1,5 @@
-#title:一名游民的指导, 卷II
-#author:Eradan Palantir
+﻿#title:一名游民的指导, 卷II
+#author:埃拉丹·帕兰提尔
 #types:eriador,lindon,rivendell,eregion
 #reward
 #

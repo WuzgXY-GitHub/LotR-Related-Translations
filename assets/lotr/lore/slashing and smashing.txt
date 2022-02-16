@@ -1,6 +1,6 @@
-# Written by Dragonovith
+﻿# Written by Dragonovith
 #title:乌尔布的砍砸指南
-#author:Captain Urbul of Durthang
+#author:都尔桑队长 乌尔布
 #types:mordor,dol_guldur,gundabad,angmar,isengard
 #reward
 #

@@ -1,5 +1,5 @@
-#title:金黄的太阳
-#author:{name:nearHaradrim_male} the Minstrel
+﻿#title:金黄的太阳
+#author:吟游诗人 {name:nearHaradrim_male}
 #types:harnennor,southron,umbar,nomad,gulf
 #reward
 #

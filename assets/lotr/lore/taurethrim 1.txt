@@ -1,5 +1,5 @@
-#title:On the Fallen Kingdom of the Sunwoods, Volume I
-#author:Ardegil, teithron Minas Tirith
+﻿#title:太阳林中的失落王国, 卷I
+#author:阿德吉尔
 #types:gondor,rivendell
 #reward
 #

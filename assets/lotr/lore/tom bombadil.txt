@@ -1,5 +1,5 @@
-#title:汤姆·邦巴迪尔
-#author:Léofred, the Scribe
+﻿#title:汤姆·邦巴迪尔
+#author:抄写员 利奥弗雷德
 #types:shire,rivendell,eriador
 #reward
 #

@@ -1,6 +1,6 @@
-# Written by Aldan Tanneo
-#title:Of the Kingdom of Doriath
-#author:Elenwë of the Grey Havens
+﻿# Written by Aldan Tanneo
+#title:关于多瑞亚斯王国
+#author:灰港的埃兰葳
 #types:lindon,rivendell,lothlorien,eregion,woodland_realm,eriador,gondor
 #reward
 #

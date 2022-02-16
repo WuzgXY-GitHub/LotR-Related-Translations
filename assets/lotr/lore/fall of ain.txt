@@ -1,7 +1,7 @@
-# Karseius
+﻿# Karseius
 #
 #title:亲爱的弟弟
-#author:蛇卫队的司令，亚述
+#author:蛇卫队司令 亚述
 #types:harnennor,southron,umbar
 #reward
 #

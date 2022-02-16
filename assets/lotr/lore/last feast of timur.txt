@@ -1,7 +1,7 @@
-# Written by Dragonovith
+﻿# Written by Dragonovith
 #
-#title:Last Feast of Timur
-#author:Rakhim the Poet
+#title:提穆尔的最后晚宴
+#author:诗人 拉克希姆
 #types:rhun
 #reward
 #
