@@ -1358,6 +1358,7 @@
   "block.lotr.bree_crafting_table": "布理地区工作台",
   "block.lotr.palantir": "帕兰提尔",
   "block.lotr.mordor_dirt_path": "魔多土径",
+  "block.lotr.chalk_path": "白垩小径",
   
   "item.lotr.gold_ring":"金戒指",
   "item.lotr.copper_ingot":"铜锭",
@@ -1728,6 +1729,7 @@
   "item.lotr.pouch.picked_up_new_items": "捡起新物品",
   "item.lotr.pouch.dyed": "染色的",
   "item.lotr.pouch.dyed.faction": "染了派系%s的颜色",
+  "item.lotr.warg_bone": "座狼骨头",
   
   "item.lotr.drink.weak": "弱",
   "item.lotr.drink.light": "清淡",
@@ -1909,6 +1911,7 @@
   "biome.lotr.umbar_forest": "乌姆巴尔森林",
   "biome.lotr.umbar_hills": "乌姆巴尔丘陵",
   "biome.lotr.field_of_cormallen": "科瑁兰原野",
+  "biome.lotr.hills_of_evendim": "暮暗丘陵",
   
   "entity.lotr.ring_portal": "戒指传送门",
   
@@ -1957,6 +1960,11 @@
   "entity.lotr.bree_man": "布理人",
   "entity.lotr.bree_hobbit": "布理霍比特人",
   "entity.lotr.bree_guard": "布理地区守卫",
+  "entity.lotr.gundabad_warg": "贡达巴德座狼",
+  "entity.lotr.isengard_warg": "艾森加德座狼",
+  "entity.lotr.mordor_warg": "魔多座狼",
+  "entity.lotr.isengard_snaga": "艾森加德斯那嘎",
+  "entity.lotr.isengard_snaga_archer": "艾森加德斯那嘎弓箭手",
   
   "entity.lotr.caracal": "狞猫",
   
@@ -2005,6 +2013,11 @@
   "item.lotr.bree_man_spawn_egg": "布理人刷怪蛋",
   "item.lotr.bree_hobbit_spawn_egg": "布理霍比特人刷怪蛋",
   "item.lotr.bree_guard_spawn_egg": "布理地区守卫刷怪蛋",
+  "item.lotr.gundabad_warg_spawn_egg": "贡达巴德座狼刷怪蛋",
+  "item.lotr.isengard_warg_spawn_egg": "艾森加德座狼刷怪蛋",
+  "item.lotr.mordor_warg_spawn_egg": "魔多座狼刷怪蛋",
+  "item.lotr.isengard_snaga_spawn_egg": "艾森加德斯那嘎刷怪蛋",
+  "item.lotr.isengard_snaga_archer_spawn_egg": "艾森加德斯那嘎弓箭手刷怪蛋",
   
   "item.lotr.caracal_spawn_egg": "狞猫刷怪蛋",
   
@@ -2073,6 +2086,8 @@
   "generator.lotr.me.info": "直接生成在中洲",
   "generator.lotr.me_classic": "中洲经典",
   "generator.lotr.me_classic.info": "直接生成在中洲，但是生物群系随机生成",
+  
+  "gui.lotr.loading.enter_middle_earth": "进入中洲中",
   
   "gui.lotr.compass.coords": "%d, %d, %d",
   
@@ -2173,7 +2188,7 @@
   "gui.lotr.factions.unpledge.desc.2": "你将失去大量对其结盟值，且一段时间内将无法再对任一派系效忠.",
   "gui.lotr.factions.pledgeLocked": "你无法获取该派系超过%1$s的更多结盟值，因为你已经对%2$s效忠了",
   "gui.lotr.factions.civilianKills.yes": "该派系鼓励击杀平民",
-  "gui.lotr.factions.civilianKills.no": "该派系不鼓励击杀平民",
+  "gui.lotr.factions.civilianKills.no": "该鼓励不鼓励击杀平民",
   
   "gui.lotr.message.dismiss": "忽略",
   "gui.lotr.message.notDisplayedAgain": "本信息将不会再次展示",
@@ -3111,6 +3126,10 @@
   "subtitles.lotr.entity.orc.death": "奥克死亡",
   "subtitles.lotr.entity.orc.ghash": "奥克放下炸弹",
   "subtitles.lotr.entity.orc.hurt": "奥克受伤",
+  "subtitles.lotr.entity.warg.ambient": "座狼咆哮",
+  "subtitles.lotr.entity.warg.attack": "座狼攻击",
+  "subtitles.lotr.entity.warg.death": "座狼死亡",
+  "subtitles.lotr.entity.warg.hurt": "座狼受伤",
   "subtitles.lotr.event.fast_travel": "迅速旅行中",
   "subtitles.lotr.event.pledge": "缔结誓言",
   "subtitles.lotr.event.trade": "交易",
@@ -3219,6 +3238,7 @@
   "config.lotr.immersiveSpeech": "沉浸对话",
   "config.lotr.immersiveSpeechChatLog": "沉浸对话日志",
   "config.lotr.immersiveSpeechDuration": "沉浸对话保持时长",
+  "config.lotr.displayAlignmentAboveHead": "在头顶显示结盟值变化",
   
   "config.lotr.dolAmrothChestplateWings": "多阿姆洛斯胸甲上翅膀的羽翼数",
   "config.lotr.mannishWomenUseAlexModelStyle": "使用'Alex'模型的人类女性NPC",
@@ -3242,5 +3262,6 @@
   "config.lotr.forceMapLocations": "强制隐藏/显示地图位置",
   
   "config.lotr.generateBiomeJsons": "生成魔戒生物群系JSON文件",
-  "config.lotr.forceFogOfWar": "强制启用/禁用战争迷雾"
+  "config.lotr.forceFogOfWar": "强制启用/禁用战争迷雾",
+  "config.lotr.playerDataClearingInterval": "离线玩家数据缓存清除间隔"
 }
