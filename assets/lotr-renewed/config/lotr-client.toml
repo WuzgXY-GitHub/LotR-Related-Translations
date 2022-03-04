@@ -1,59 +1,112 @@
 
-[环境]
-	#无注释
-	下雨时的迷雾 = true
-	#在中洲维度显示新的雨、雪、沙尘暴、效果
-	新的天气渲染 = true
-	#无注释
-	迷雾山脉的迷雾 = true
-	#极光/北方的光芒
-	极光 = true
-	#无注释
-	日光炫目 = true
-	#启用/禁用中洲维度的天空渲染
-	模组天空 = true
-	#替换中洲维度的雨水粒子效果
-	新的雨水粒子 = true
-	#启用/禁用中洲维度的云层渲染
-	模组的云 = true
-	#无注释
-	#范围: > 0
-	云层范围 = 1024
+[environment]
+	# 下雨时有迷雾效果
+	rainMist = true
+	
+	# 在中洲维度显示新的雨、雪、沙尘暴、效果
+	newWeatherRendering = true
+	
+	# 在迷雾山脉群系有迷雾效果
+	mistyMountainsMist = true
+	
+	# 极光/北方的光芒
+	northernLights = true
+	
+	# 直视太阳会炫目
+	sunGlare = true
+	
+	# 启用/禁用中洲维度的天空渲染
+	modSky = true
+	
+	# 替换中洲维度的雨水粒子效果
+	newRainGroundParticles = true
+	
+	# 启用/禁用中洲维度的云层渲染
+	modClouds = true
+	
+	# 显示云层范围
+	# 范围: > 0
+	cloudRange = 1024
 
-[图形界面]
-	#进入游戏时显示魔戒模组自定义的主界面
-	模组主界面 = true
-	#无注释
-	褐色地图 = false
-	#一旦显示过一遍后会自动设为false
-	显示世界类型提示 = true
-	#无注释
-	地图文字 = true
+[gui]
+	# 进入游戏时显示魔戒模组自定义的主界面
+	modMainMenu = true
+	
+	# 启用或禁用地图迷雾，服务端设定会覆盖客户端设定
+	fogOfWar = true
+	
+	# 启用/禁用褐色地图
+	sepiaMap = false
+	
+	# 用英制单位代替方块(1格=1米)作为路径点距离显示单位
+	imperialWaypointDistances = false
+	
+	# 在创建新世界时显示世界类型帮助
+	# 一旦显示过一遍后会自动设为false
+	showWorldTypeHelp = true
+	
+	# 启用/禁用地图文字
+	mapLabels = true
 
-[显示]
-	#屏幕上的指南针是否显示坐标和生物群系
-	指南针信息 = true
-	#修改结盟条在屏幕上的y轴坐标。负值向上，正值向下。
-	#范围: > -2147483648
-	结盟条y坐标 = 0
-	#在中洲维度显示屏幕上的指南针
-	指南针 = true
-	#修改结盟条在屏幕上的x轴坐标。负值向左，正值向右。
-	#范围: > -2147483648
-	结盟条x坐标 = 0
-	#在非魔戒模组的维度仍然显示结盟条
-	到处显示结盟条 = false
+[hud]
+	# 屏幕上的指南针是否显示坐标和生物群系
+	compassInfo = true
+	
+	# 修改结盟条在屏幕上的y轴坐标。负值向上，正值向下。
+	# 范围: > -2147483648
+	alignmentYOffset = 0
+	
+	# 对话文本显示的秒数
+	# 范围: 0 ~ 60
+	immersiveSpeechDuration = 10
+	
+	# 在中洲维度显示屏幕上的指南针
+	compass = true
+	
+	# 在玩家头顶显示结盟值得失
+	displayAlignmentAboveHead = true
+	
+	#Toggle whether speech still shows in the chat box when Immersive Speech is enabled
+	immersiveSpeechChatLog = false
+	
+	# 修改结盟条在屏幕上的x轴坐标。负值向左，正值向右。
+	# 范围: > -2147483648
+	alignmentXOffset = 0
+	
+	# 设为true则NPC的对话出现在头顶
+	# 设为false则出现在聊天框
+	immersiveSpeech = true
+	
+	# 在非魔戒模组的维度仍然显示结盟条
+	showAlignmentEverywhere = false
 
-[模型]
-	#天鹅骑士的胸甲背上的翅膀对数
-	#范围: 0 ~ 24
-	多阿姆洛斯胸甲羽翼对数 = 12
+[model]
+	# 设为true则女性精灵会使用Alex模型(细手臂)
+	elfWomenUseAlexModelStyle = true
+	
+	# 设为true则女性霍比特人会使用Alex模型(细手臂)
+	hobbitWomenUseAlexModelStyle = false
+	
+	# 设为true则女性人类会使用Alex模型(细手臂)
+	mannishWomenUseAlexModelStyle = true
+	
+	# 设为true则女性矮人会使用Alex模型(细手臂)
+	dwarfWomenUseAlexModelStyle = false
+	
+	# 天鹅骑士的胸甲背上的翅膀对数
+	# 范围: 0 ~ 24
+	dolAmrothChestplateWings = 12
+	
+	# 设为true则雌性奥克会使用Alex模型(细手臂)
+	orcWomenUseAlexModelStyle = false
 
-[音效]
-	#无注释
-	风声 = true
-	#无注释
-	新雷声 = true
-	#无注释
-	新雨声 = true
+[sound]
+	# 启用/禁用新的环境风声音效
+	windAmbience = true
+	
+	# 启用/禁用新的雷声音效
+	newThunderSounds = true
+	
+	# 启用/禁用新的雨声音效
+	newRainSounds = true
 

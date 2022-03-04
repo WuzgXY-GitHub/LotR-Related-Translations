@@ -1,14 +1,26 @@
 
-[游戏机制]
-	#只有在派系影响区域内才能获取结盟值
-	影响区域 = true
-	#如果玩家有敌对派系的正结盟值，则敌友两派系结盟值会自动衰减
-	结盟值衰减 = true
-	#无注释
-	醉酒文本 = true
+[gameplay]
+	# NPC站着与玩家对话动画的最小秒数
+	# 范围: 3 ~ 60
+	npcTalkToPlayerMinDuration = 5
+	
+	# NPC站着与玩家对话动画的最大秒数
+	# 范围: 3 ~ 60
+	npcTalkToPlayerMaxDuration = 10
+	
+	# 只有在派系影响区域内才能获取结盟值
+	areasOfInfluence = true
+	
+	# 如果玩家有敌对派系的正结盟值，则敌友两派系结盟值会自动衰减
+	alignmentDraining = true
+	
+	# 启用/禁用醉酒文本
+	drunkSpeech = true
 
-[管理]
-	#0 = 根据玩家设置（默认），1 = 强制隐藏，2 = 强制显示
-	#范围: 0 ~ 2
-	强制地图位置显示 = 0
+[mobs]
+	# 启用/禁用更小的蜜蜂模型(大约为原先的1/2)
+	smallerBees = true
 
+[datapack-utility]
+	# 设为true则模组会在加载世界时自动生成最新的生物群系json文件并导出，给资源包制作者用
+	generateBiomeJsons = false
